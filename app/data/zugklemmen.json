@@ -1,0 +1,650 @@
+[
+  {
+    "slug": "sicherheitskabel-80",
+    "title": "Sicherheitskabel Art. 80",
+    "subtitle": "Sicherheitskabel für Kette, Klemme und Haken",
+    "image": "/images/zugklemmen/cavo-di-sicurezza-art-80.jpg",
+    "longDescription": "Das Sicherheitskabel muss beim Ziehen IMMER verwendet werden, um die Kette, die Klemme und/oder den Haken an der Metalloberfläche zu sichern. \n\n Sollte sich das Metall vom Körper lösen, die Kette reißen oder die Klemme auf der Metalloberfläche verrutschen, verhindert das Sicherheitskabel Verletzungen des Bedieners. \n\n Die korrekte Verwendung entnehmen Sie bitte den angegebenen Zeichnungen. Wir lehnen jegliche Haftung für Sachschäden oder Personenschäden ab, die durch von uns gelieferte Klemmen, Haken und Ketten verursacht werden, die ohne das Sicherheitskabel verwendet werden.",
+
+    "images": [
+     "/images/zugklemmen/cavo-di-sicurezza-art-80.jpg",
+  "/images/zugklemmen/cavo-di-sicurezza-art-80-applicazione.jpg",
+  "/images/zugklemmen/cavo-di-sicurezza-art-80-applicazione2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl mit Kunststoffummantelung" },
+      { "name": "Länge", "unit": "mm", "value": "2000" },
+      { "name": "Gewicht", "unit": "kg", "value": "0,52" }
+    ]
+  },
+  {
+    "slug": "haltebuegel-96",
+    "title": "Haltebügel Art. 96",
+    "subtitle": "Haltebügel",
+    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+    "longDescription": "Zugbügel zur alleinigen Verwendung oder in Kombination mit selbstsichernden Klemmen Art. 131, 133, 137 und 148, sofern diese nicht mit Zugring oder Ringschraube ausgestattet sind. \n\n Die Klemmen sind nicht im Lieferumfang enthalten.",
+    "images": [
+      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl verzinkt" },
+      { "name": "Gewicht", "unit": "kg", "value": "0,96" }
+    ]
+  },
+  {
+    "slug": "zugring-119",
+    "title": "Zugring Art. 119",
+    "subtitle": "Zugring - Accessoire",
+    "image": "/images/zugklemmen/119.jpg",
+    "longDescription": "",
+    "images": [
+      "/images/zugklemmen/119.jpg"
+    ]
+  },
+  {
+    "slug": "shark-120",
+    "title": "Shark Art. 120",
+    "subtitle": "55 mm selbstsichernde Zugklemme ohne Scharnier",
+    "image": "/images/zugklemmen/120.jpeg",
+    "longDescription": "Die aus Stahl geschmiedete Shark-Zugklemme hat eine Tiefe, die auch für den Einsatz an hervorstehenden oder erhöhten Kanten geeignet ist. Dank der speziellen Auflagefläche an den beiden Halbklemmen kann der Zugmechanismus mit Augenschraube ständig in einer sicher zentrierten Position gehalten werden, wodurch ein Herausrutschen verhindert wird. Die Shark-Klemme ist für eine Zugkraft von 6 Tonnen zertifiziert. Die gezahnten Stahlbacken sind gehärtet und daher verschleißfest. Sie sind mit entsprechenden Ersatzbacken austauschbar.",
+    "images": [
+      "/images/zugklemmen/120.jpeg",
+      "/images/zugklemmen/120-1.jpg",
+      "/images/zugklemmen/120-2.png"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Hochfester Stahl" },
+      { "name": "Zugfestigkeit", "unit": "t", "value": "6" },
+      { "name": "Breite", "unit": "mm", "value": "55" },
+      { "name": "Gewicht", "unit": "kg", "value": "3" }
+    ]
+  },
+  {
+    "slug": "skuba-121",
+    "title": "Skuba Art. 121",
+    "subtitle": "55 mm Selbstsichernde Zugklemme ohne Scharnier",
+    "image": "/images/zugklemmen/121.jpg",
+    "longDescription": "Die Skuba-Zugklemme ist selbstsichernd und muss nicht an der Karosserie verschraubt werden. Die gerändelten Backen aus gehärtetem, verschleißfestem Stahl sind austauschbar. \n\n Das Verbindungsgelenk zwischen den beiden Schalen wurde durch einen robusten, geschmiedeten und gedrehten Ring ersetzt. Der selbstsichernde Mechanismus, bestehend aus einem Trapezkonus und einem Gewindestift mit Feder, wird durch den Sitz auf den beiden Schalen, die ein Herausrutschen verhindern, ständig in der Mitte gehalten. \n\n Die Skuba-Zugklemme ist aus hochfestem Stahl geschmiedet.",
+    "images": [
+      "/images/zugklemmen/121.jpg",
+      "/images/zugklemmen/121-2.jpg",
+      "/images/zugklemmen/121-1.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Hochfester Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "6" },
+      { "name": "Breite", "unit": "mm", "value": "55" },
+      { "name": "Gewicht", "unit": "kg", "value": "3,2" }
+    ]
+  },
+
+   {
+    "slug": "platte-123",
+    "title": "Platte Art. 123",
+    "subtitle": "Mehrloch-Zugplatte",
+    "image": "/images/zugklemmen/123.jpg",
+    "longDescription": "",
+    "images": [
+      "/images/zugklemmen/123.jpg",
+      "/images/zugklemmen/123-1.png"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Gewicht", "unit": "kg", "value": "0,96" }
+    ]
+  },
+
+   {
+    "slug": "pikolo-126",
+    "title": "Pikolo Art. 126",
+    "subtitle": "Anschraubklemme aus hochfestem Spezialstahl",
+    "image": "/images/zugklemmen/126.jpg",
+    "longDescription": "Anschraubklemme aus hochfestem Spezialstahl. Dank ihrer geringen Größe lässt sie sich einfach und sicher an jeder beliebigen Stelle der Karosserie anbringen.",
+    "images": [
+      "/images/zugklemmen/126.jpg",
+      "/images/zugklemmen/126-1.jpg",
+      "/images/zugklemmen/126-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugfestigkeit", "unit": "t", "value": "3" },
+      { "name": "Gewicht", "unit": "kg", "value": "0,80" }
+    ]
+  },
+
+   {
+    "slug": "macpherson-127",
+    "title": "MacPherson Art. 127",
+    "subtitle": "MacPherson-Federbein-Zugvorrichtung, geeignet für Fahrzeuge",
+    "image": "/images/zugklemmen/127.jpg",
+    "longDescription": "MacPherson-Federbein-Zugvorrichtung, geeignet für Fahrzeuge mit Bohrungen an der Aufhängungsstelle.",
+    "images": [
+      "/images/zugklemmen/127.jpg",
+      "/images/zugklemmen/127-1.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "6" },
+      { "name": "Gewicht", "unit": "kg", "value": "4,5" }
+    ]
+  },
+
+   {
+    "slug": "autoblock-128",
+    "title": "Autoblock 60 mm Art. 128",
+    "subtitle": "Selbstsichernde Zugklemmen 6 t, 60 mm",
+    "image": "/images/zugklemmen/128.jpg",
+    "longDescription": "Selbstsichernde Zugklemmen 6 Tonnen. Selbstsichernde Zugklemmen mit schneller Befestigung mittels Gewindestift, der am Zugring montiert ist. \n\n Die Autoblock-Klemmen bleiben ohne Zugkraftanwendung an der Metallplatte arretiert. Austauschbare Backen aus speziell gehärtetem Stahl für lange Lebensdauer. \n\n Backenbreite 60 mm für starke Zugkräfte an Rahmenteilen.",
+    "images": [
+      "/images/zugklemmen/128.jpg",
+      "/images/zugklemmen/128-1.jpg",
+      "/images/zugklemmen/128-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "6" },
+      { "name": "Breite", "unit": "mm", "value": "59" },
+      { "name": "Gewicht", "unit": "kg", "value": "3,5" }
+
+    ]
+  },
+
+  {
+    "slug": "autoblock-130",
+    "title": "Autoblock Art. 130",
+    "subtitle": "Selbstsichernde Zugklemmen 10 t",
+    "image": "/images/zugklemmen/130.jpg",
+    "longDescription": "Selbstsichernde Zugklemmen 10 Tonnen. Selbstsichernde Zugklemmen mit schneller Befestigung mittels Gewindestift, der am Zugring angebracht ist. Die Autoblock-Klemmen bleiben ohne Zugkraftanwendung an der Metallplatte gesichert. Austauschbare Backen aus speziell gehärtetem Stahl für lange Lebensdauer. Backenbreite 100 mm für starke Zugkräfte auf dünnen Blechen.",
+      "images": [
+      "/images/zugklemmen/130.jpg",
+      "/images/zugklemmen/130-1.jpg",
+      "/images/zugklemmen/130-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Hochfester Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "10" },
+      { "name": "Breite", "unit": "mm", "value": "100" },
+      { "name": "Gewicht", "unit": "kg", "value": "3,8" }
+
+    ]
+  },
+
+   {
+    "slug": "zugklemme-131",
+    "title": "Universal-Zugklemme Art. 131",
+    "subtitle": "Universal-Zugklemme 100 mm",
+    "image": "/images/zugklemmen/131.jpg",
+    "longDescription": "Universal-Zugklemme 100 mm. \n\n Austauschbare Backen. \n\n Optional mit Zugring Art. 119 nutzbar.",
+    "images": [
+      "/images/zugklemmen/131.jpg",
+      "/images/zugklemmen/131-1.jpg",
+      "/images/zugklemmen/131-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "10" },
+      { "name": "Breite", "unit": "mm", "value": "100" },
+      { "name": "Gewicht", "unit": "kg", "value": "3,3" }
+
+    ]
+  },
+
+   {
+    "slug": "zugklemme-133",
+    "title": "Rechtwinklige Zugklemme Art. 133",
+    "subtitle": "Rechtwinklige Zugklemme",
+    "image": "/images/zugklemmen/133.jpg",
+    "longDescription": "Die Verwendung des Sicherheitskabels wird in Verbindung mit allen Zugklemmen und Haken dringend empfohlen. \n\n Austauschbare Backen",
+    "images": [
+      "/images/zugklemmen/133.jpg",
+      "/images/zugklemmen/133-1.jpg",
+      "/images/zugklemmen/133-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "4" },
+      { "name": "Breite", "unit": "mm", "value": "100" },
+      { "name": "Gewicht", "unit": "kg", "value": "3,7" }
+    ]
+  },
+
+  {
+    "slug": "autoblock-134",
+    "title": "Autoblock Magnum Art. 134",
+    "subtitle": "Hochleistungs-Zugklemme",
+    "image": "/images/zugklemmen/134.jpg",
+    "longDescription": "Autoblock Magnum ist eine selbstsichernde Zugklemme, die vor dem Ziehen nicht an der beschädigten Platte festgeschraubt werden muss. Magnum verfügt über eine viel breitere und tiefere Backe, um direkt in den Zugbereich zu gelangen. Geeignet für Zugkräfte bis zu 10 Tonnen. \n\n Austauschbare Backen. \n\n Das Sicherheitskabel wird dringend empfohlen, zusammen mit der Verwendung jeder Art von Klemme und Zughaken.",
+    "images": [
+      "/images/zugklemmen/134.jpg",
+      "/images/zugklemmen/134-1.jpg",
+      "/images/zugklemmen/134-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Hochfester Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "10" },
+      { "name": "Breite", "unit": "mm", "value": "60" },
+      { "name": "Gewicht", "unit": "kg", "value": "5" }
+    ]
+  },
+
+  {
+    "slug": "schwenkbare-zugklemme-135",
+    "title": "Schwenkbare Zugklemme Art. 135",
+    "subtitle": "Schwenkbare Zugklemme",
+    "image": "/images/zugklemmen/135.jpg",
+    "longDescription": "Schwenkbare Klemme mit austauschbaren Backen.",
+    "images": [
+      "/images/zugklemmen/135.jpg",
+      "/images/zugklemmen/135-1.png",
+      "/images/zugklemmen/135-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Spezial Schmiedestahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "6" },
+      { "name": "Breite", "unit": "mm", "value": "90" },
+      { "name": "Gewicht", "unit": "kg", "value": "3,8" }
+    ]
+  },
+
+  {
+    "slug": "rapidhook-136",
+    "title": "Rapidhook Art. 136",
+    "subtitle": "Hochfester, kleiner Schnellhaken aus Stahl",
+    "image": "/images/zugklemmen/136.jpg",
+    "longDescription": "Hochfester, kleiner Schnellhaken aus Stahl. Einfach an vielen Stellen am Körper anzubringen. \n\n Austauschbare Backen. \n\n Die Verwendung des Sicherheitskabels wird in Verbindung mit allen Zugklemmen und Haken dringend empfohlen.",
+    "images": [
+      "/images/zugklemmen/136.jpg",
+      "/images/zugklemmen/136-1.jpg",
+      "/images/zugklemmen/136-2.jpg",
+      "/images/zugklemmen/136-3.jpg",
+      "/images/zugklemmen/136-4.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "7" },
+      { "name": "Gewicht", "unit": "kg", "value": "2,1" }
+    ]
+  },
+
+  {
+    "slug": "klemme-137",
+    "title": "Klemme 75 Art. 137",
+    "subtitle": "Klemme 75 mit Ringschraube",
+    "image": "/images/zugklemmen/137.jpg",
+    "longDescription": "Der große Abstand zwischen den beiden Schalen ermöglicht den Einsatz der Klemme 75 über Platten mit erhöhten Kanten oder großen Vorsprüngen. Die einzigartige Spannvorrichtung (Vierkantschraube in einem Vierkantloch) ermöglicht das Anziehen der Kontermutter ohne Verwendung eines Schraubenschlüssels am Schraubenkopf.",
+    "images": [
+      "/images/zugklemmen/137.jpg",
+      "/images/zugklemmen/137-1.jpg",
+      "/images/zugklemmen/137-2.jpg",
+      "/images/zugklemmen/137-3.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "6" },
+      { "name": "Breite", "unit": "mm", "value": "75" },
+      { "name": "Gewicht", "unit": "kg", "value": "2,6" }
+    ]
+  },
+
+  {
+    "slug": "bomerang-138",
+    "title": "Boomerang Art. 138",
+    "subtitle": "Zughakenset",
+    "image": "/images/zugklemmen/138.jpeg",
+    "longDescription": "Zughakenset komplett mit Karosseriehaken und Zubehörsatz. Ideal zum Ziehen schwer zugänglicher und beschädigter Bereiche, ohne Kettenabdrücke am Fahrzeug zu hinterlassen. Der Boomerang ist aus geschmiedetem Stahl gefertigt, was die Sicherheit erhöht und das Bruchrisiko bei übermäßigem Zug verringert.",
+    "images": [
+      "/images/zugklemmen/138.jpeg",
+      "/images/zugklemmen/138-1.jpg",
+      "/images/zugklemmen/138-3.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "6" },
+      { "name": "Gewicht", "unit": "kg", "value": "11" }
+    ]
+  },
+  {
+    "slug": "grillo-139",
+    "title": "Grillo Art. 139",
+    "subtitle": "Zugklemme 35 mm",
+    "image": "/images/zugklemmen/139.jpg",
+    "longDescription": "Geschmiedete Midget-Klemme für 90°-Zug zur einfachen und schnellen Reparatur an unzugänglichen Stellen. Dank des Schraubrings kann der Zug in zwei entgegengesetzte Richtungen um 90° erfolgen, ohne dass die Klemme aus ihrer Position entfernt werden muss.",
+    "images": [
+      "/images/zugklemmen/139.jpg",
+      "/images/zugklemmen/139-1.jpg",
+      "/images/zugklemmen/139-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "2" },
+      { "name": "Breite", "unit": "mm", "value": "35" },
+      { "name": "Gewicht", "unit": "kg", "value": "0,80" }
+    ]
+  },
+
+  {
+    "slug": "pinza-140",
+    "title": "Pinza Art. 140",
+    "subtitle": "Zugklemme mit 50 mm tiefer Kerbe",
+    "image": "/images/zugklemmen/140.jpg",
+    "longDescription": "Spezielle Zugklemme mit einer inneren Kerbe von 50 mm Breite, ausgestattet mit zwei Schraubringen für 90°-Zug. Dank ihrer tiefen Kerbe eignet sich diese Zugklemme besonders für Zugvorgänge an dicken Rahmenteilen. \n\n Die Verwendung des Sicherheitskabels wird in Verbindung mit allen Zugklemmen und Haken dringend empfohlen.",
+    "images": [
+      "/images/zugklemmen/140.jpg",
+      "/images/zugklemmen/140-1.jpg",
+      "/images/zugklemmen/140-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "6" },
+      { "name": "Breite", "unit": "mm", "value": "50" },
+      { "name": "Gewicht", "unit": "kg", "value": "3,2" }
+    ]
+  },
+
+  {
+    "slug": "arco-141",
+    "title": "ARCO Large Art. 141",
+    "subtitle": "arco groß",
+    "image": "/images/zugklemmen/141.jpg",
+    "longDescription": "Das Werkzeug hat zwei Krümmungen, eine auf jeder Seite, und passt auf die Radkästen fast aller Autos. \n\n Max. Tragkraft: 1500 kg",
+    "images": [
+      "/images/zugklemmen/141.jpg",
+      "/images/zugklemmen/141-1.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "2" },
+      { "name": "Gewicht", "unit": "kg", "value": "2,4" }
+    ]
+  },
+
+  {
+    "slug": "arco-142",
+    "title": "ARCO Small Art. 142",
+    "subtitle": "arco klein",
+    "image": "/images/zugklemmen/142.jpg",
+    "longDescription": "Das Werkzeug hat zwei Krümmungen, eine auf jeder Seite, und passt auf die Radkästen fast aller Autos. Auch zum Richten von Scheinwerferöffnungen und Türhalterungen geeignet. \n\n Max. Tragkraft: 1500 kg",
+    "images": [
+      "/images/zugklemmen/142.jpg",
+      "/images/zugklemmen/142-1.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "2" },
+      { "name": "Gewicht", "unit": "kg", "value": "1,6" }
+    ]
+  },
+
+  {
+    "slug": "arco-141hd-142hd",
+    "title": "Arco Art. 141HD – Art. 142HD",
+    "subtitle": "Arco HD – Heavy Duty",
+    "image": "/images/zugklemmen/HD.jpg",
+    "longDescription": "Arco Schwerlast (Heavy Duty) geeignet für alle Radkastenreparaturen, die eine höhere Zugkraft erfordern. Mit integriertem Kettenverkürzer. \n\n Art. 141/HD für Fahrzeuge mit Radkästen von 22–24 mm. \n\n Art. 142/HD für Fahrzeuge mit Radkästen von 18–20 mm.",
+    "images": [
+      "/images/zugklemmen/HD.jpg",
+      "/images/zugklemmen/HD-1.jpg",
+      "/images/zugklemmen/HD-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "7" },
+      { "name": "Gewicht", "unit": "kg", "value": "1,5" }
+    ]
+  },
+
+  {
+    "slug": "zugplatte-143",
+    "title": "Multifunktionale Zugplatte Art. 143",
+    "subtitle": "Zugplatte",
+    "image": "/images/zugklemmen/143.jpg",
+    "longDescription": "Dank der großen Öffnung der Gelenkarme (350 mm) ermöglicht die multifunktionale Zugklemme die Ausübung einer Zugkraft von bis zu 6 Tonnen auf große Metallflächen oder Rahmen. Außerdem lässt sie sich auch an nicht ausgerichteten Punkten der Karosserie leicht befestigen; trotzdem verläuft die Zugkraft immer senkrecht zur Anwendungslinie. \n\n Ebenfalls erhältlich: Art. 143C – Mit um 90° schwenkbaren Blöcken",
+    "images": [
+      "/images/zugklemmen/143.jpg",
+      "/images/zugklemmen/143-1.jpg",
+      "/images/zugklemmen/143-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Verzinkter Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "6" },
+      { "name": "Spreizweite", "unit": "mm", "value": "350" },
+      { "name": "Länge", "unit": "mm", "value": "355" },
+      { "name": "Gewicht", "unit": "kg", "value": "2,7" }
+    ]
+  },
+
+  {
+    "slug": "zugzange-144",
+    "title": "Zugzange Art. 144",
+    "subtitle": "Zugzange aus geschmiedetem Stahl",
+    "image": "/images/zugklemmen/144.jpg",
+    "longDescription": "Zugzange aus geschmiedetem Stahl. Dank ihrer kompakten Größe und großen Öffnung eignet sie sich auch für den Einsatz an schwer zugänglichen Stellen. Die Rändelung an den beiden gehärteten Backen sorgt für einen festen Halt. \n\n Die Verwendung des Sicherheitskabels wird in Verbindung mit allen Zugklemmen und Haken dringend empfohlen.",
+    "images": [
+      "/images/zugklemmen/144.jpg",
+      "/images/zugklemmen/144-1.jpg",
+      "/images/zugklemmen/144-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "4" },
+      { "name": "Gewicht", "unit": "kg", "value": "3,2" }
+    ]
+  },
+
+  {
+    "slug": "zugzange-144i",
+    "title": "Schwerlast-Zugzange Art. 144I",
+    "subtitle": "Schwerlast-Zugzange",
+    "image": "/images/zugklemmen/144I.jpg",
+    "longDescription": "Die besondere Form der beiden Greiferhälften in Verbindung mit dem breiten Hals macht dieses Werkzeug besonders geeignet für Reparaturen an schwer zugänglichen Stellen. Die verwendete Spezialstahllegierung und die robuste Konstruktion ermöglichen eine maximale Zugkraft von 8 Tonnen, ohne dass das Werkzeug bricht oder knickt. Das Modell ist daher ideal zum Richten stark beschädigter Teile des Fahrgestells, die eine erhebliche Zugkraft erfordern. \n\n Durch die exzentrische Verriegelungsvorrichtung kann die Zugzange ohne Zugkraftanwendung an der Karosserie befestigt werden. Dadurch ist nur ein Bediener erforderlich, was zu einer wertvollen Zeitersparnis führt. Die gerändelten Klemmteile sind aus gehärtetem Stahl für eine höhere Verschleißfestigkeit.",
+    "images": [
+      "/images/zugklemmen/144I.jpg",
+      "/images/zugklemmen/144I-1.jpg",
+      "/images/zugklemmen/144I-2.jpg",
+      "/images/zugklemmen/144I-3.jpg",
+      "/images/zugklemmen/144I-4.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Spezialstahl, verformbar, verzinkt" },
+      { "name": "Zugkraft", "unit": "t", "value": "8" },
+      { "name": "Gewicht", "unit": "kg", "value": "5,2" }
+    ]
+  },
+
+  {
+    "slug": "flachklemme-145",
+    "title": "Flachklemme. Art. 145",
+    "subtitle": "Extraflache Klemme, besonders geeignet für Kastenkonstruktionen",
+    "image": "/images/zugklemmen/145.jpg",
+    "longDescription": "Extraflache Klemme, besonders geeignet für Kastenkonstruktionen – in Positionen, in denen das Durcheinander der montierten Teile den Zugang mit normal großen Klemmen verhindert (z. B. innerhalb der Seitenrahmen). \n\n Die Flachklemme verfügt über eine Reihe wichtiger Merkmale: Der abnehmbare 90°-Übertragungsring ermöglicht es, die Zugrichtung zu ändern, ohne die Klemme aus ihrer ursprünglichen Position zu lösen. Die Ringschraube dient als Kettenverkürzer, wodurch die Flachklemme schneller und einfacher zu verwenden ist. Die Dicke der Ringschraube wirkt wie ein Keil und erzeugt beim Ziehen einen „Selbsthemmungseffekt” auf die beiden vorderen Backen. Die einzigartige Spannvorrichtung (Vierkantschraube in einem Vierkantloch) ermöglicht das Anziehen der Kontermutter ohne Verwendung eines Schraubenschlüssels am Schraubenkopf, was Zeit spart und die Verwendung vereinfacht.",
+    "images": [
+      "/images/zugklemmen/145.jpg",
+      "/images/zugklemmen/145-1.jpg",
+      "/images/zugklemmen/145-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "3" },
+      { "name": "Breite", "unit": "mm", "value": "51" },
+      { "name": "Gewicht", "unit": "kg", "value": "1,8" }
+    ]
+  },
+
+  {
+    "slug": "luccio-146",
+    "title": "Luccio Art. 146",
+    "subtitle": "Klemme für schwer zugängliche Stellen an Karosserien",
+    "image": "/images/zugklemmen/146.jpg",
+    "longDescription": "Der vordere Teil dieser Zugklemme ist sehr flach und dünn, bietet jedoch dank der Greifzähne einen festen Halt auf Metallblechen. Sie eignet sich für sehr enge Öffnungen und schwer zugängliche Stellen an Karosserien. Das spezielle Design der Klemmschale ermöglicht das Anziehen der Kontermutter ohne Verwendung eines Schraubenschlüssels am Schraubenkopf, was Zeit spart und die Handhabung vereinfacht. \n\n Die Verwendung des Sicherheitskabels wird in Verbindung mit allen Zugklemmen und Haken dringend empfohlen.",
+    "images": [
+      "/images/zugklemmen/146.jpg",
+      "/images/zugklemmen/146-1.jpg",
+      "/images/zugklemmen/146-2.jpg",
+      "/images/zugklemmen/146-3.jpg",
+      "/images/zugklemmen/146-4.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "4" },
+      { "name": "Breite", "unit": "mm", "value": "56" },
+      { "name": "Gewicht", "unit": "kg", "value": "1,8" }
+    ]
+  },
+
+  {
+    "slug": "schiebeklemme-147",
+    "title": "Schiebeklemme Art. 147",
+    "subtitle": "Klemme für horizontale Zugkräfte",
+    "image": "/images/zugklemmen/147.jpg",
+    "longDescription": "Klemme für horizontale Zugkräfte. Sie ist mit 2 Greifbacken ausgestattet, die wie ein Keil zusammengesetzt sind und sich beim Ziehen automatisch an der Fensterbank festklemmen. Sie lässt sich mit einem Hammerschlag schnell anbringen und entfernen. \n\n Die Verwendung des Sicherheitskabels wird in Verbindung mit allen Zugklemmen und Haken dringend empfohlen. \n\n Grillo Art. 904 als Zubehör",
+    "images": [
+      "/images/zugklemmen/147.jpg",
+      "/images/zugklemmen/147-1.jpg",
+      "/images/zugklemmen/147-2.jpg",
+      "/images/zugklemmen/147-3.jpg",
+      "/images/zugklemmen/147-4.jpg"
+    ],
+    "specs": [
+      { "name": "Material Klemme", "unit": "-", "value": "Gusseisen" },
+      { "name": "Zugkraft", "unit": "t", "value": "8" },
+      { "name": "Material Backen", "unit": "-", "value": "Spezialbehandelter Stahl" },
+      { "name": "Gewicht", "unit": "kg", "value": "2,7" }
+    ]
+  },
+
+  {
+    "slug": "zugklemme-148",
+    "title": "Zugklemme 45 Art. 148",
+    "subtitle": "Universalklemme 45 mm",
+    "image": "/images/zugklemmen/148.jpg",
+    "longDescription": "Universalklemme 45 mm mit manueller Verriegelung mittels Schraube und Mutter. Geeignet für alle Arten von Zugarbeiten an Karosserien. Erhältlich mit Zugring oder Zugöse. \n\n Zubehör: Zugrimg Art. 119",
+    "images": [
+      "/images/zugklemmen/148.jpg",
+      "/images/zugklemmen/148-1.jpg",
+      "/images/zugklemmen/148-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "4" },
+      { "name": "Breite", "unit": "mm", "value": "45" },
+      { "name": "Gewicht", "unit": "kg", "value": "1,8" }
+    ]
+  },
+
+  {
+    "slug": "klemme-149",
+    "title": "Multipull-Klemme Art. 149",
+    "subtitle": "Multifunktionszugklemme",
+    "image": "/images/zugklemmen/149.jpg",
+    "longDescription": "Universalklemme mit 4 verschiedenen Zugrichtungen. Sie ermöglicht verschiedene Anwendungen mit großer Zeitersparnis, da die Zugrichtung geändert werden kann, ohne die Zugklemme auf dem Blech zu demontieren und wieder zu montieren. \n\n Austauschbare Backen",
+    "images": [
+      "/images/zugklemmen/149.jpg",
+      "/images/zugklemmen/149-1.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "6" },
+      { "name": "Zugrichtungen", "unit": "-", "value": "4" },
+      { "name": "Gewicht", "unit": "kg", "value": "3,3" }
+    ]
+  },
+
+  {
+    "slug": "u-klemme-150",
+    "title": "Große U-Klemme Art. 150",
+    "subtitle": "Große U-Klemme",
+    "image": "/images/zugklemmen/150.jpg",
+    "longDescription": "Durch ihre große Öffnung und sehr große Reichweite eignet sich diese Klemme für den Einsatz an stark beschädigten Fahrzeugen. \n\n Beide Schrauben können vollständig zurückgezogen werden, um eine maximale Öffnung zu erreichen. Die starken Greifbacken können gedreht und an jede Zugposition angepasst werden. Die Löcher im Halbkreis ermöglichen verschiedene Zugwinkel. \n\n Austauschbare Backen",
+    "images": [
+      "/images/zugklemmen/150.jpg",
+      "/images/zugklemmen/150-1.jpg",
+      "/images/zugklemmen/150-2.jpg",
+      "/images/zugklemmen/150-3.jpg",
+      "/images/zugklemmen/150-4.jpg",
+      "/images/zugklemmen/150-5.jpg"
+    ],
+    "specs": [
+      { "name": "Material Klemme", "unit": "-", "value": "Gusseisen" },
+      { "name": "Material Backen", "unit": "-", "value": "speziell gehärteter Stahl" },
+      { "name": "Ausreißkraft an der Schrauböse", "unit": "t", "value": "4" },
+      { "name": "Maximale Ausreißkraft am Halbkreis", "unit": "t", "value": "8" },
+      { "name": "Gewicht", "unit": "kg", "value": "7,5" }
+    ]
+  },
+
+  {
+    "slug": "grillo-904",
+    "title": "Grillo Art. 904",
+    "subtitle": "Grillino Fessel",
+    "image": "/images/zugklemmen/904.jpg",
+    "longDescription": "Zubehör",
+    "images": [
+      "/images/zugklemmen/904.jpg"
+    ]
+  },
+
+  {
+    "slug": "zugset-160",
+    "title": "Universal-Zugset Art. 160",
+    "subtitle": "Universal-Zugset für McPherson-Stoßdämpfer",
+    "image": "/images/zugklemmen/160.jpg",
+    "longDescription": "Dank der Scheiben mit unterschiedlichen Durchmessern stellt dieses Werkzeug die runde Form des Federbeins präzise wieder her. \n\n Geeignet für das Ziehen in Höhe des Stoßdämpfers, wodurch schräge Zugkräfte vermieden werden. Horizontales Ziehen in alle erforderlichen Richtungen möglich. Gleichzeitiges vertikales/horizontales Ziehen ohne Bewegung der Ausrüstung möglich. Universell geeignet für alle Fahrzeuge mit rundem Federungsgehäuse. Robuste und kompakte Bauweise. \n\n Standardausstattung: \n • 1 obere Glocke \n • 1 Scheibe Durchmesser 70-80 mm \n • 1 Scheibe Durchmesser 85-95 mm \n • 1 Scheibe Durchmesser 100-110 mm \n • 1 Handgriff mit Platte \n • Befestigungskleinteile \n • Kunststoffkoffer \n\n ROTER ZUGARM NICHT IM LIEFERUMFANG ENTHALTEN. ",
+    "images": [
+      "/images/zugklemmen/160.jpg",
+      "/images/zugklemmen/160-1.jpg",
+      "/images/zugklemmen/160-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material Obere Kuppel", "unit": "-", "value": "Gusseisen" },
+      { "name": "Material Scheiben", "unit": "-", "value": "Gusseisen" },
+      { "name": "Material Zugklaue mit Platte", "unit": "-", "value": "38Ncd4 geschmiedet + FE37" },
+      { "name": "Material Kleinteile", "unit": "-", "value": "Fe37/C40" },
+      { "name": "Material Werkzeugkoffer", "unit": "-", "value": "Kunststoff" },
+      { "name": "Zugkraft", "unit": "t", "value": "8" },
+      { "name": "Gewicht", "unit": "kg", "value": "12" }
+    ]
+  },
+
+  {
+    "slug": "klemme-180",
+    "title": "Doppelte Längsträger-Klemme Art. 180",
+    "subtitle": "Traktion an Längsträgern mit Endflanschen",
+    "image": "/images/zugklemmen/180.jpg",
+    "longDescription": "Für die Traktion an Längsträgern mit Endflanschen. Die spezielle Krümmung der beiden Platten ermöglicht es, den Flansch am Längsträger zu überragen und die Klemme fest an der Metallplatte zu befestigen. \n Geeignet für: Golf III, Golf IV, Audi A3, Volvo, Peugeot, Mercedes 190, Jeeps, VW Sharan, Ford Galaxy \n\n Die Verwendung des Sicherheitskabels wird in Verbindung mit allen Zugklemmen und Haken dringend empfohlen. \n\n Austauschbare Backen",
+    "images": [
+      "/images/zugklemmen/180.jpg",
+      "/images/zugklemmen/180-1.jpg",
+      "/images/zugklemmen/180-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "8" },
+      { "name": "Gewicht", "unit": "kg", "value": "3,6" }
+    ]
+  },
+
+
+
+
+  {
+    "slug": "klemme-181",
+    "title": "Seitenholmklemme Art. 181",
+    "subtitle": "Einfache Klemme für Längsträger",
+    "image": "/images/zugklemmen/181.jpg",
+    "longDescription": "Unverzichtbar für das Spannen von Längsträgern mit seitlichen Flanschen und/oder Endstücken. Die spezielle Krümmung der Platte ermöglicht es, den Flansch am Längsträger zu überbrücken und die Klemme fest am Blech zu befestigen. Die Klemme kann sowohl für das Spannen rechts als auch links vom Längsträger verwendet werden. \n\n Die Verwendung des Sicherheitskabels wird in Verbindung mit allen Zugklemmen und Haken dringend empfohlen. \n\n Austauschbare Backen.",
+    "images": [
+      "/images/zugklemmen/181.jpg",
+      "/images/zugklemmen/181-1.jpg",
+      "/images/zugklemmen/181-2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl" },
+      { "name": "Zugkraft", "unit": "t", "value": "8" },
+      { "name": "Gewicht", "unit": "kg", "value": "2,9" }
+    ]
+  }
+
+
+]

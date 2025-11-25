@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "sicherheitskabel-80",
+    "title": "Sicherheitskabel Art. 80",
+    "subtitle": "Sicherheitskabel für Kette, Klemme und Haken",
+    "image": "/images/zugklemmen/cavo-di-sicurezza-art-80.jpg",
+    "longDescription": "Das Sicherheitskabel muss beim Ziehen IMMER verwendet werden, um die Kette, die Klemme und/oder den Haken an der Metalloberfläche zu sichern. \n\n Sollte sich das Metall vom Körper lösen, die Kette reißen oder die Klemme auf der Metalloberfläche verrutschen, verhindert das Sicherheitskabel Verletzungen des Bedieners. \n\n Die korrekte Verwendung entnehmen Sie bitte den angegebenen Zeichnungen. Wir lehnen jegliche Haftung für Sachschäden oder Personenschäden ab, die durch von uns gelieferte Klemmen, Haken und Ketten verursacht werden, die ohne das Sicherheitskabel verwendet werden.",
+
+    "images": [
+     "/images/zugklemmen/cavo-di-sicurezza-art-80.jpg",
+  "/images/zugklemmen/cavo-di-sicurezza-art-80-applicazione.jpg",
+  "/images/zugklemmen/cavo-di-sicurezza-art-80-applicazione2.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl mit Kunststoffummantelung" },
+      { "name": "Länge", "unit": "mm", "value": "2000" },
+      { "name": "Gewicht", "unit": "kg", "value": "0,52" }
+    ]
+  },
+  {
+    "slug": "haltebuegel-96",
+    "title": "Haltebügel Art. 96",
+    "subtitle": "Haltebügel",
+    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+    "longDescription": "Zugbügel zur alleinigen Verwendung oder in Kombination mit selbstsichernden Klemmen Art. 131, 133, 137 und 148, sofern diese nicht mit Zugring oder Ringschraube ausgestattet sind. \n\n Die Klemmen sind nicht im Lieferumfang enthalten.",
+    "images": [
+      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+    ],
+    "specs": [
+      { "name": "Material", "unit": "-", "value": "Stahl verzinkt" },
+      { "name": "Gewicht", "unit": "kg", "value": "0,96" }
+    ]
+  }]

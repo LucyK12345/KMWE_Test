@@ -1,0 +1,191 @@
+ [
+    {
+    "slug": "fl08",
+    "title": "FL08",
+    "brand": "verankerung",
+    "subtitle": "Klemmen mit höhenverstellbarer Aufnahme",
+    "image": "/images/zubehoer/fl08.jpg",
+    "longDescription": "Klemmen mit höhenverstellbarer Aufnahme",
+    "images": [
+     "/images/zubehoer/fl08.jpg"    ]
+  },
+   {
+    "slug": "kitfix",
+    "title": "JO ME/BMW KITFIX",
+    "brand": "verankerung",
+    "subtitle": "4 Halteklemmen für Mercedes und BMW",
+    "image": "/images/zubehoer/kitfix.jpg",
+    "longDescription": "Satz mit 4 Mercedes Aufnahmehalter \n Satz mit 4 Halteklemmen für BMW",
+    "images": [
+     "/images/zubehoer/kitfix.jpg"    ]
+  },
+
+   {
+    "slug": "jo",
+    "title": "JO RME+SCE+NM",
+    "brand": "verankerung",
+    "subtitle": "4 Halteklemmen für Renault Mégane, Modus und Nissan Micra",
+    "image": "/images/zubehoer/jo.jpg",
+    "longDescription": "Satz mit 4 Halteklemmen für Renault Mégane/Modus und Nissan Micra->2002",
+    "images": [
+     "/images/zubehoer/jo.jpg"    ]
+  },
+   {
+    "slug": "la104",
+    "title": "LA104",
+    "brand": "verankerung",
+    "subtitle": "Werkzeugablagewagen",
+    "image": "/images/zubehoer/la104.jpg",
+    "longDescription": "Werkzeugablagewagen mit Lochwand: 6 Fächer auf der einen Seite und eine Lochwand auf der anderen Seite erlauben alle bentigten Werkzeuge jederzeit griffbereit zu haben.",
+    "images": [
+     "/images/zubehoer/la104.jpg"    ],
+     "specs": [
+      { "name": "Länge", "unit": "mm", "value": "900" },
+      { "name": "Breite", "unit": "mm", "value": "600" },
+      { "name": "Höhe", "unit": "mm", "value": "1200" }
+    ]
+  },
+    {
+    "slug": "la125",
+    "title": "LA125",
+    "brand": "verankerung",
+    "subtitle": "4 Absetzböcke",
+    "image": "/images/zubehoer/la125.jpg",
+    "longDescription": "Satz mit 4 fahrbaren Abstützböcken",
+    "images": [
+     "/images/zubehoer/la125.jpg"    ]
+  },
+    {
+    "slug": "la4x4",
+    "title": "LA4X4 CHASSIS",
+    "brand": "verankerung",
+    "subtitle": "4 KLemmen zum Aufnehmen",
+    "image": "/images/zubehoer/la4x4.jpg",
+    "longDescription": "Satz mit 4 Klemmen zum Aufnehmen am Rahmen",
+    "images": [
+     "/images/zubehoer/la4x4.jpg"    ]
+  },
+    {
+    "slug": "sc19",
+    "title": "SC19",
+    "brand": "verankerung",
+    "subtitle": "4 schmale einstellbare Klemmen",
+    "image": "/images/zubehoer/sc19.jpg",
+    "longDescription": "Satz mit 4 schmalen einstellbaren Klemmen.",
+    "images": [
+     "/images/zubehoer/sc19.jpg"    ]
+  },
+    {
+    "slug": "st450",
+    "title": "ST450",
+    "brand": "verankerung",
+    "subtitle": "Lange Stangen für FL08-Klemmen für Messsysteme",
+    "image": "/images/zubehoer/st450.jpg",
+    "longDescription": "Lange Stangen für FL08-Klemmen für Messsysteme.",
+    "images": [
+     "/images/zubehoer/st450.jpg"    ]
+  },
+    {
+    "slug": "bt10ton",
+    "title": "BT10TON",
+    "brand": "zuggeraet",
+    "subtitle": "Doppelt drehbares Zuggerät",
+    "image": "/images/zubehoer/bt10ton.jpg",
+    "longDescription": [
+        "Doppelt drehbares Zuggerät",
+        "Komplett mit Pneumohydraulischer Pumpe, Zylinder, Kette, Verlängerung für vertikalen Zug, Verlängerung für Zug oben. Umlenkrolle für Zug nach unten lieferbar"
+],
+    "images": [
+     "/images/zubehoer/bt10ton.jpg"    ],
+        "specs": [
+      { "name": "Zugkraft", "unit": "t", "value": "8" }]
+  },
+
+   {
+    "slug": "bt10ton-compact",
+    "title": "BT10TON COMPACT",
+    "brand": "zuggeraet",
+    "subtitle": "Doppelt drehbares Zuggerät",
+    "image": "/images/zubehoer/bt10tonc.jpg",
+    "longDescription": [
+        "Doppelt drehbares Zuggerät",
+        "Komplett mit Pneumohydraulischer Pumpe, Zylinder, Kette, Verlängerung für vertikalen Zug, Verlängerung für Zug oben. Umlenkrolle für Zug nach unten lieferbar"
+],
+    "images": [
+     "/images/zubehoer/bt10tonc.jpg"    ],
+        "specs": [
+      { "name": "Zugkraft", "unit": "t", "value": "8" }]
+  },
+{
+    "slug": "bt1rotel",
+    "title": "BT1ROTEL",
+    "brand": "zuggeraet",
+    "subtitle": "Einzeln drehbares Zuggerät",
+    "image": "/images/zubehoer/bt1rotel.jpg",
+    "longDescription": [
+        "Einzeln drehbares Zuggerät",
+        "Komplett mit Pneumohydraulischer Pumpe, Zylinder, Kette",
+        "Umlenkrolle für Zug nach unten lieferbar"
+],
+    "images": [
+     "/images/zubehoer/bt1rotel.jpg"    ],
+        "specs": [
+      { "name": "Zugkraft", "unit": "t", "value": "6" }]
+  },
+  {
+    "slug": "bt2ro",
+    "title": "BT2RO",
+    "brand": "zuggeraet",
+    "subtitle": "Doppelt drehbares Zuggerät",
+    "image": "/images/zubehoer/bt2ro.jpg",
+    "longDescription": [
+        "Komplett mit Pneumohydraulischer Pumpe, Zylinder, Kette, Umlenkrolle für Zug nach unten lieferbar"
+],
+    "images": [
+     "/images/zubehoer/bt2ro.jpg"    ],
+        "specs": [
+      { "name": "Zugkraft", "unit": "t", "value": "6" }]
+  },
+{
+    "slug": "bt2ro-comopact",
+    "title": "BT2RO COMPACT",
+    "brand": "zuggeraet",
+    "subtitle": "Doppelt drehbares Zuggerät",
+    "image": "/images/zubehoer/bt2roc.jpg",
+    "longDescription": [
+        "Komplett mit Pneumohydraulischer Pumpe, Zylinder, Kette, Umlenkrolle für Zug nach unten lieferbar"
+],
+    "images": [
+     "/images/zubehoer/bt2roc.jpg"    ],
+        "specs": [
+      { "name": "Zugkraft", "unit": "t", "value": "6" }]
+  },
+   {
+    "slug": "pc-data",
+    "title": "PC DATA",
+    "brand": "messsystem",
+    "subtitle": "Datenbank",
+    "image": "/images/zubehoer/pc.jpg",
+    "longDescription": "Eine computergestützte Weltdatenbank für mechanische Messsysteme ist auf DVD erhältlich. \n PC DATA ist zur Verwendung in Verbindung mit Zeroline Digit2 geeignet.",
+    "images": [
+     "/images/zubehoer/pc.jpg"    ]
+  },
+   {
+    "slug": "zeroline",
+    "title": "ZEROLINE",
+    "brand": "messsystem",
+    "subtitle": "digitales Messgerät",
+    "image": "/images/zubehoer/zeroline.jpg",
+    "longDescription": [
+        "Digitales Messgerät",
+        "Aussergewöhnlich genau und einfach in der Anwendung.",
+        "Zeroline: Länge, Breite, Diagonale und jetzt auch Höhe kann Digital mit numerischer Anzeige gemessen werden.",
+        "Zeroline kann mit jeder Art von Neigung barbeiten: durch dräcken des Kalibrierknopf wird ein Nullpunkt erstellt; auch wenn das Fahrzeug nicht horizontal steht.",
+        "Geeignet zum Messen der Bodengruppe/ des Oberbau/ mechanischer Teile/ und Radgeometrie e.t.c."
+    ],
+    "images": [
+     "/images/zubehoer/zeroline.jpg"    ]
+  }
+
+
+ ]

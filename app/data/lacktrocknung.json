@@ -1,0 +1,194 @@
+[
+  {
+    "slug": "010",
+    "title": "010 T",
+    "subtitle": "Tragbarer Infrarottrockner mit Timer",
+    "image": "/images/zugklemmen/cavo-di-sicurezza-art-80.jpg",
+    "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
+        "mit Timer",
+        "einfache Platte",
+        "Sofortige Aufwärmung und volle Leistung innerhalb einer Sekunde",
+        "Saubere Energie: durch die Strahlung entstehen keine Umweltverschmutzungen",
+        "Große Manövrierfähigkeit der Kassette",
+        "Optional mit Standsäule"
+],
+    "images": [
+     "/images/zugklemmen/cavo-di-sicurezza-art-80.jpg",
+  "/images/zugklemmen/cavo-di-sicurezza-art-80-applicazione.jpg",
+  "/images/zugklemmen/cavo-di-sicurezza-art-80-applicazione2.jpg"
+    ],
+    "specs": [
+        { "name": "Leistung", "unit": "kW", "value": "1" },
+        { "name": "Spannung", "unit": "-", "value": "230V 50-60Hz 1P+N+T" },
+        { "name": "Stromstärke", "unit": "A", "value": "10" },
+        { "name": "Absaugfläche", "unit": "mm", "value": "600x400" },
+        { "name": "Abmessungen", "unit": "mm", "value": "240x465x295H" },
+        { "name": "Gewicht", "unit": "kg", "value": "2,4" }
+    ]
+  },
+  {
+    "slug": "020",
+    "title": "020 B T",
+    "subtitle": "Tragbarer Infrarottrockner mit Timer",
+    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+   "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
+        "mit Timer",
+        "doppelte Platte",
+        "Sofortige Aufwärmung und volle Leistung innerhalb einer Sekunde",
+        "Saubere Energie: durch die Strahlung entstehen keine Umweltverschmutzungen",
+        "Große Manövrierfähigkeit der Kassette",
+        "Optional mit Standsäule"
+    ],
+    "images": [
+      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+    ],
+    "specs": [
+        { "name": "Leistung", "unit": "kW", "value": "2" },
+        { "name": "Spannung", "unit": "-", "value": "230V 50-60Hz 1P+N+T" },
+        { "name": "Stromstärke", "unit": "A", "value": "10" },
+        { "name": "Absaugfläche", "unit": "mm", "value": "900x900" },
+        { "name": "Abmessungen", "unit": "mm", "value": "600x600x1500H" },
+        { "name": "Gewicht", "unit": "kg", "value": "18,6" }
+    ]
+  },
+   {
+    "slug": "030",
+    "title": "030 V T / V D / V DP",
+    "subtitle": "Mobiler Infrarotstrahler",
+    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+   "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
+        "Verfügbare Modelle: 030 V T / 030 V D / 030 V DP",
+        "030 V T: Mit Timer",
+        "030 V D: Mit Display",
+        "030 V DP: Mit Temperatursensor und Display ",
+        "dreifache Plattformen",
+        "Sofortige Aufwärmung und volle Leistung innerhalb einer Sekunde",
+        "Saubere Energie: durch die Strahlung entstehen keine Umweltverschmutzungen",
+        "Steuerung mit Zeitschaltuhr/Digital-Steuerung mit 4 gespeicherten Programmen",
+        "Große Manövrierfähigkeit der Kassette",
+        "Optional mit Verlängerung",
+        "Auf Anfrage: 220 V 16 A einphasig 1P+N+T"
+    ],
+    "images": [
+      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+    ],
+    "specs": [
+        { "name": "Leistung", "unit": "kW", "value": "3" },
+        { "name": "Stromstärke", "unit": "A", "value": "16" },
+        { "name": "Plattformgröße", "unit": "mm", "value": "1000 x 1000" },
+        { "name": "Außenmaße", "unit": "mm", "value": "600 x 600 x 1500H" },
+        { "name": "Spannung (Modell: 030 V T)", "unit": "V", "value": "400V 50–60Hz 3P+T"},
+        { "name": "Spannung (Modelle: 030 V D / 030 V DP)", "unit": "V", "value": "400V 50–60Hz 3P+N+T"},
+        { "name": "Gewicht (Modell: 030 V T)", "unit": "kg", "value": "20,6"  },
+        { "name": "Gewicht (Modelle: 030 V D / 030 V DP)", "unit": "kg", "value": "22,1" }
+]
+  },
+   {
+    "slug": "130",
+    "title": "130 V T / V D / V DP",
+    "subtitle": "Mobiler Infrarotstrahler mit 1 Kassette",
+    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+   "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
+        "Verfügbare Modelle: 130 V T / 130 V D / 130 V DP",
+        "030 V T: Mit Timer",
+        "030 V D: Mit Display",
+        "030 V DP: Mit Temperatursensor und Display ",
+        "dreifache Plattformen",
+        "Sofortige Aufwärmung und volle Leistung innerhalb einer Sekunde",
+        "Saubere Energie: durch die Strahlung entstehen keine Umweltverschmutzungen",
+        "Große Manövrierfähigkeit der Kassette",
+        "Optional mit Standsäule"
+    ],
+    "images": [
+      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+    ],
+    "specs": [
+        { "name": "Leistung", "unit": "kW", "value": "3" },
+        { "name": "Stromstärke", "unit": "A", "value": "16" },
+        { "name": "Plattformgröße", "unit": "mm", "value": "1000 x 1000" },
+        { "name": "Außenmaße", "unit": "mm", "value": "780 x 1100 x 1600H" },
+        { "name": "Spannung (Modell: 130 V T)", "unit": "V", "value": "400V 50–60Hz 3P+T" },
+        { "name": "Spannung (Modelle: 130 V D / 130 V DP)", "unit": "V", "value": "400V 50–60Hz 3P+N+T" },
+        { "name": "Gewicht (Modell: 130 V T)", "unit": "kg", "value": "44,5" },
+        { "name": "Gewicht (Modelle: 130 V D / 130 V DP)", "unit": "kg", "value": "49,5" }
+]
+  },
+   {
+    "slug": "260",
+    "title": "260 V T / V D / V DP",
+    "subtitle": "Mobiler Infrarotstrahler mit 2 Kassetten",
+    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+   "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
+        "Verfügbare Modelle: 260 V T / 260 V D / 260 V DP",
+        "260 V T: Mit Timer",
+        "260 V D: Mit Display",
+        "260 V DP: Mit Temperatursensor und Display ",
+        "dreifache Plattformen",
+        "Sofortige Aufwärmung und volle Leistung innerhalb einer Sekunde",
+        "Saubere Energie: durch die Strahlung entstehen keine Umweltverschmutzungen",
+        "Steuerung mit Zeitschaltuhr/Digital-Steuerung mit 4 gespeicherten Programmen",
+        "Große Manövrierfähigkeit der Kassette",
+        "Optional mit Standsäule"
+    ],
+    "images": [
+      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+    ],
+    "specs": [
+        { "name": "Leistung", "unit": "kW", "value": "6" },
+        { "name": "Stromstärke", "unit": "A", "value": "16" },
+        { "name": "Plattformgröße", "unit": "mm", "value": "2000 x 1000" },
+        { "name": "Außenmaße (Modell: 260 V T)", "unit": "mm", "value": "1000 x 1100 x 1600H" },
+        { "name": "Außenmaße (Modell: 260 V D)", "unit": "mm", "value": "1000 x 1100 x 1600H" },
+        { "name": "Außenmaße (Modell: 260 V DP)", "unit": "mm", "value": "1000 x 1100 x 1600H" },
+        { "name": "Spannung (Modell: 260 V T / 260 V DP)", "unit": "V", "value": "400V 50–60Hz 3P+T" },
+        { "name": "Spannung (Modell: 260 V D)", "unit": "V", "value": "400V 50–60Hz 3P+N+T" },
+        { "name": "Gewicht (Modell: 260 V T)", "unit": "kg", "value": "64,8" },
+        { "name": "Gewicht (Modell: 260 V D)", "unit": "kg", "value": "73,4" },
+        { "name": "Gewicht (Modell: 260 V DP)", "unit": "kg", "value": "73,6" }
+        ]
+  },
+   {
+    "slug": "290",
+    "title": "290 V D / V DP / V DPP",
+    "subtitle": "Mobiler Infrarotstrahler mit 2 Kassetten",
+    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+   "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
+        "Verfügbare Modelle: 290 V T / 290 V D / 290 V DP",
+        "290 V D:Mit Display",
+        "290 V DP: Mit Temperatursensor und Display",
+        "290 V DPP: Mit zweifachem Temperatursensor und Display ",
+        "dreifache Plattformen",
+        "Sofortige Aufwärmung und volle Leistung innerhalb einer Sekunde",
+        "Saubere Energie: durch die Strahlung entstehen keine Umweltverschmutzungen",
+        "Steuerung mit Zeitschaltuhr/Digital-Steuerung mit 4 gespeicherten Programmen",
+        "Große Manövrierfähigkeit der Kassette",
+        "Optional mit Standsäule"
+    ],
+    "images": [
+      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
+      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+    ],
+    "specs": [
+        { "name": "Leistung", "unit": "kW", "value": "9" },
+        { "name": "Stromstärke", "unit": "A", "value": "16" },
+        { "name": "Plattformgröße", "unit": "mm", "value": "2000 x 1000" },
+        { "name": "Außenmaße", "unit": "mm", "value": "1000 x 1100 x 1600H" },
+        { "name": "Spannung", "unit": "V", "value": "400V 50–60Hz 3P+N+T" },
+        { "name": "Gewicht (Modell: 290 V D)", "unit": "kg", "value": "73,4" },
+        { "name": "Gewicht (Modell: 290 V DP)", "unit": "kg", "value": "73,6" },
+        { "name": "Gewicht (Modell: 290 V DPP)", "unit": "kg", "value": "?" }
+    ]
+  }
+
+  
+
+]

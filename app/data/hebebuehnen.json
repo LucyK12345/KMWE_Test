@@ -1,0 +1,597 @@
+[
+  
+  {
+    "slug": "1330",
+    "title": "JOLLIFT 1330",
+    "brand": "fitim-ueberflur",
+    "subtitle": "Bühne mit Plattformen zum Heben an Rädern",
+    "image": "/images/hebebuehnen/fitim1330.jpg",
+    "longDescription": [
+    "Überflur Bühne",
+    "Fahrbar",
+    "Bühne mit Gummiauflagen",
+    "Bühne mit Plattformen zum Heben an Rädern",
+    "Bühne für Karosseriebetriebe, KFZ-Werkstätten, Reifendienste etc.",
+    "ATEX Version lieferbar",
+    "Verringerte Mindesthöhe dank FITIM POWER ENERGY-Technologie (nur 96 mm)",
+    "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+    "Radaufnahmeplatten vorbereitet für JOLLYPULL Smart Repair",
+    "Mechanische, hydraulische und elektrische Sicherheitsvorrichtungen gemäß EN 1493",
+    "Geringer Platzbedarf – besserer Zugang zum Fahrzeug und mehr Arbeitsfreiheit"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitim1330.jpg",
+     "/images/hebebuehnen/fitim1330-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3000" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1300" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "96" }
+    ]
+  },
+  
+ {
+    "slug": "1335",
+    "title": "JOLLIFT 1335",
+    "brand": "fitim-ueberflur",
+    "subtitle": "Bühne mit Plattformen zum Heben an Rädern",
+    "image": "/images/hebebuehnen/fitim1335.jpg",
+    "longDescription": [
+    "Überflur Bühne",
+    "Bühne mit Gummiauflagen",
+    "Bühne mit Plattformen zum Heben an Rädern",
+    "Bühne für Karosseriebetriebe, KFZ-Werkstätten, Reifendienste e.t.c.",
+    "Automatisches Öffnen und Schliessen der Schwenkarme lieferbar",
+    "ATEX Version lieferbarVerringerte Mindesthöhe aufgrund der FITIM POWER ENERGY-Technologie (nur 96 mm bei JOLLIFT 1330)",
+    "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+    "Radaufnahmeplatten, vorbereitet für JOLLYPULL Smart Repair",
+    "Mechanische / hydraulische / elektrische Sicherheitsvorrichtungen gemäß der Norm EN 1493",
+    "Geringer Platzbedarf, hierdurch besserer Zugang zum Fahrzeug und mehr Platz zum Arbeiten"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitim1335.jpg",
+     "/images/hebebuehnen/fitim1335-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1300" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "105" }
+    ]
+  },
+
+   {
+    "slug": "master35",
+    "title": "JOLLIFT MASTER 35",
+    "brand": "fitim-ueberflur",
+    "subtitle": "Tragkraft 3500 kg",
+    "image": "/images/hebebuehnen/fitimm35.jpg",
+    "longDescription": [
+    "Überflur Bühne",
+    "Bühne mit Gummiauflagen",
+    "Bühne mit Plattformen zum Heben an Rädern",
+    "Bühne für Karosseriebetriebe, KFZ-Werkstätten, Reifendienste e.t.c.",
+    "Automatisches Öffnen und Schliessen der Schwenkarme lieferbar",
+    "ATEX Version lieferbar",
+    "Verringerte Mindesthöhe aufgrund der FITIM POWER ENERGY-Technologie (nur 105 mm)",
+    "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+    "Radaufnahmeplatten, vorbereitet für JOLLYPULL Smart Repair",
+    "Mechanische / hydraulische / elektrische Sicherheitsvorrichtungen gemäß der Norm EN 1493",
+    "Geringer Platzbedarf, hierdurch besserer Zugang zum Fahrzeug und mehr Platz zum Arbeiten"
+        ],
+    "images": [
+     "/images/hebebuehnen/fitimm35.jpg",
+     "/images/hebebuehnen/fitimm35-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1640" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "105" }
+    ]
+  },
+
+   {
+    "slug": "master3700es",
+    "title": "MASTER 3700.ES",
+    "brand": "fitim-ueberflur",
+    "subtitle": "Bühne",
+    "image": "/images/hebebuehnen/fitimm3700.jpg",
+    "longDescription": [
+    "Überflur Bühne",   
+    "Gleiche Aufnahmen für das Heben an Rädern oder am Schweller mit Gummiauflagen",
+    "Geeignet für Karosseriebetriebe, Werkstätten und Service-Stationen",
+    "Fahrzeug kann mit zwei aufliegenden und zwei freihängenden Rädern angehoben werden",
+    "Einsetzbar für PKW, Transporter und SUV",
+    "Erhältlich als Hebebühne",
+    "Erhältlich als Richtbank mit derselben Ausstattung wie die Überflur- bzw. Unterflur-Richtbänke",
+    "Mechanische, hydraulische und elektrische Sicherheitseinrichtungen gemäß EN 1493"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimm3700.jpg",
+     "/images/hebebuehnen/fitimm3700-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Hubhöhe bis zur Gummiauflage", "unit": "mm", "value": "1650" },
+      { "name": "Hubhöhe bis zur Radaufnahme oder Gummiauflage", "unit": "mm", "value": "1510" },
+      { "name": "Mindesthöhe", "unit": "mm", "value": "95 / 106" },
+      { "name": "Mindesthöhe bis zur Radaufnahme", "unit": "mm", "value": "36" }
+    ]
+  },
+
+  {
+    "slug": "master5000es",
+    "title": "MASTER 5000.ES ",
+    "brand": "fitim-ueberflur",
+    "subtitle": "Bühne",
+    "image": "/images/hebebuehnen/fitimm5000es.jpg",
+    "longDescription": [
+    "Überflur Bühne",
+   "Bühne mit 4 verschiebbaren Platten zum Heben an den Rädern",
+   "Bühne für CARS, VANS, SUVS, PICKUPS, UTILITY TRUCKS, CAMPERS",
+
+  "__BREAK__",
+  "Zubehör:",
+  "Gummiauflagen hoch",
+  "Gummiauflagen niedrig",
+  "Jollypull Minizuggerät",
+  "Zuggerät (Richtbank)",
+  "Standfuß der Bühne, Rahmen und Platten gegen Aufpreis verzinkt lieferbar"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimm5000es.jpg",
+     "/images/hebebuehnen/fitimm5000es-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "5000" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1450" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "120 / 50" },
+      { "name": "Rahmenlänge", "unit": "mm", "value": "5000" }
+    ]
+  },
+
+  {
+    "slug": "GF39",
+    "title": "GF 39 ",
+    "brand": "fitim-ueberflur",
+    "subtitle": "extrem Flach: 39 mm",
+    "image": "/images/hebebuehnen/fitimgf.jpeg",
+    "longDescription": [
+    "Extrem Flache Überflur Bühne",
+    "Ideal für Motorsport"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimgf.jpeg",
+     "/images/hebebuehnen/fitimgf-1.png"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "900" },
+      { "name": "Hubhöhe", "unit": "mm", "value": "1180" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "39" }
+    ]
+  },
+
+  {
+    "slug": "KW50",
+    "title": "KW 50",
+    "brand": "fitim-ueberflur",
+    "subtitle": "extrem Flach: 50 mm",
+    "image": "/images/hebebuehnen/fitimkw.jpg",
+    "longDescription": [
+    "Extrem Flache Überflur Bühne",
+    "Ideal für Motorsport und PKWs",
+    "Anheben über die obere Plattform / über Arme und Gummiauflagen ",
+    "Neue patentierte Hebetechnologie",
+    "Ausgestattet mit mechanischen, hydraulischen und elektrischen Sicherheitsvorrichtungen",
+    "Flache Hebekissen mit doppelter Schraubenverlängerung"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimkw.jpg",
+     "/images/hebebuehnen/fitimkw-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "1500" },
+      { "name": "Hubhöhe", "unit": "mm", "value": "1180" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "50" }
+    ]
+  },
+  {
+    "slug": "NM65",
+    "title": "NM 65 ",
+    "brand": "fitim-ueberflur",
+    "subtitle": "extrem Flach: 65 mm",
+    "image": "/images/hebebuehnen/fitimnm.jpg",
+    "longDescription": [
+    "Extrem Flache Überflur Bühne",
+    "Ideal für Karosseriebetriebe, Werkstätten und Reifendienste",
+    "Anheben über die obere Plattform / über Arme und Gummiauflagen ",
+    "Neue patentierte Hebetechnologie",
+    "Ausgestattet mit mechanischen, hydraulischen und elektrischen Sicherheitsvorrichtungen",
+    "Flache Hebekissen mit doppelter Schraubenverlängerung"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimnm.jpg",
+     "/images/hebebuehnen/fitimnm-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3000" },
+      { "name": "Hubhöhe", "unit": "mm", "value": "1210" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "65" }
+    ]
+  },
+{
+    "slug": "MT75",
+    "title": "MT 75 ",
+    "brand": "fitim-ueberflur",
+    "subtitle": "extrem Flach: 75 mm",
+    "image": "/images/hebebuehnen/fitimmt.jpg",
+    "longDescription": [
+    "Extrem Flache Überflur Bühne",
+    "Ideal für Karosseriebetriebe, Werkstätten und Reifendienste",
+    "Anheben über die obere Plattform / über Arme und Gummiauflagen ",
+    "Neue patentierte Hebetechnologie",
+    "Ausgestattet mit mechanischen, hydraulischen und elektrischen Sicherheitsvorrichtungen",
+    "Flache Hebekissen mit doppelter Schraubenverlängerung"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimmt.jpg",
+     "/images/hebebuehnen/fitimmt-1.jpg",
+     "/images/hebebuehnen/fitimmt-2.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3000" },
+      { "name": "Hubhöhe", "unit": "mm", "value": "1530" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "75" }
+    ]
+  },
+   {
+    "slug": "1200",
+    "title": "JOLLIFT 1200",
+    "brand": "fitim-unterflur",
+    "subtitle": " ",
+    "image": "/images/hebebuehnen/fitim1200.jpg",
+    "longDescription": [
+      "Unterflur Bühne",
+      "Bühne mit Gummiauflagen",
+      "Bühne mit Plattformen zum Heben an den Rädern",
+      "Automatisches Öffnen und Schließen der Schwenkarme lieferbar",
+      "Fernsteuerung mit magnetischem Steuerkasten lieferbar für JOLLIFT 1200 PH",
+      "Elektro- oder pneumohydraulische Versionen lieferbar (JOLLIFT 1200 EH) sowie elektrohydraulische Modelle mit pneumatischer Steuerung (JOLLIFT 1200 PE)",
+      "Bühne für Lackierkabinen, Vorbereitungsplätze, Montage und Demontage von Fahrzeugen sowie für den Abnahmebereich",
+      "ATEX-Version lieferbar",
+      "Bündig mit dem Boden montierbar",
+      "Einfach, schnell und sicher dank Stop-Vorrichtung, die beim Herausfahren aus der Grube eine Beschädigung der Fahrzeugunterseite verhindert",
+      "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+      "Radaufnahmeplatten, vorbereitet für JOLLYPULL Smart Repair",
+      "Mechanische, hydraulische und elektrische Sicherheitsvorrichtungen gemäß EN 1493",
+      "Geringer Platzbedarf für besseren Zugang zum Fahrzeug und mehr Arbeitsfläche"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitim1200.jpg",
+     "/images/hebebuehnen/fitim1200-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3000" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1100" }
+    ]
+  },
+
+
+  {
+    "slug": "1235",
+    "title": "JOLLIFT 1235",
+    "brand": "fitim-unterflur",
+    "subtitle": " ",
+    "image": "/images/hebebuehnen/fitim1235.jpg",
+    "longDescription": [
+      "Unterflur Bühne",
+      "Bühne mit Gummiauflagen",
+      "Bühne mit Plattformen zum Heben an den Rädern",
+      "Automatisches Öffnen und Schließen der Schwenkarme lieferbar",
+      "Fernsteuerung mit magnetischem Steuerkasten lieferbar für JOLLIFT 1235 PH",
+      "Elektro- oder pneumohydraulische Versionen lieferbar (JOLLIFT 1235 EH) sowie elektrohydraulische Modelle mit pneumatischer Steuerung (JOLLIFT 1235 PE)",
+      "Bühne für Lackierkabinen, Vorbereitungsplätze, Montage und Demontage von Fahrzeugen sowie den Abnahmebereich",
+      "ATEX-Version lieferbar",
+      "Bündig mit dem Boden montierbar",
+      "Einfach, schnell und sicher dank Stop-Vorrichtung, die beim Herausfahren aus der Grube eine Beschädigung der Fahrzeugunterseite verhindert",
+      "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+      "Radaufnahmeplatten, vorbereitet für JOLLYPULL Smart Repair",
+      "Mechanische, hydraulische und elektrische Sicherheitsvorrichtungen gemäß EN 1493",
+      "Geringer Platzbedarf für besseren Zugang zum Fahrzeug und mehr Arbeitsfläche"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitim1235.jpg",
+     "/images/hebebuehnen/fitim1235-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1100" }
+    ]
+  },
+
+  {
+    "slug": "1635",
+    "title": "JOLLIFT 1635 ",
+    "brand": "fitim-unterflur",
+    "subtitle": " ",
+    "image": "/images/hebebuehnen/fitim1635.jpg",
+    "longDescription": [
+      "Unterflur Bühne",
+      "Bühne mit Gummiauflagen",
+      "Bühne mit Plattformen zum Heben an den Rädern",
+      "Automatisches Öffnen und Schließen der Schwenkarme lieferbar",
+      "Fernsteuerung mit magnetischem Steuerkasten lieferbar",
+      "Bühne für Lackierkabinen, Vorbereitungsplätze, Montage und Demontage von Fahrzeugen sowie den Abnahmebereich",
+      "ATEX-Version lieferbar",
+      "Bündig mit dem Boden montierbar",
+      "Einfach, schnell und sicher dank Stop-Vorrichtung, die beim Herausfahren aus der Grube eine Beschädigung der Fahrzeugunterseite verhindert",
+      "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+      "Radaufnahmeplatten, vorbereitet für JOLLYPULL Smart Repair",
+      "Mechanische, hydraulische und elektrische Sicherheitsvorrichtungen gemäß EN 1493",
+      "Geringer Platzbedarf für besseren Zugang zum Fahrzeug und mehr Arbeitsfläche"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitim1635.jpg",
+     "/images/hebebuehnen/fitim1635-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1480" }
+    ]
+  },
+
+  {
+    "slug": "1835",
+    "title": "JOLLIFT 1835",
+    "brand": "fitim-unterflur",
+    "subtitle": " ",
+    "image": "/images/hebebuehnen/fitim1835.jpg",
+        "longDescription": [
+      "Unterflur Bühne",
+      "Bühne mit Gummiauflagen",
+      "Bühne mit Plattformen zum Heben an den Rädern",
+      "Automatisches Öffnen und Schließen der Schwenkarme lieferbar",
+      "Fernsteuerung mit magnetischem Steuerkasten lieferbar",
+      "Bühne für Lackierkabinen, Vorbereitungsplätze, Montage und Demontage von Fahrzeugen sowie den Abnahmebereich",
+      "ATEX-Version lieferbar",
+      "Bündig mit dem Boden montierbar",
+      "Einfach, schnell und sicher dank der Stop-Vorrichtung, die beim Herausfahren aus der Grube eine Beschädigung der Fahrzeugunterseite verhindert",
+      "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+      "Radaufnahmeplatten, vorbereitet für JOLLYPULL Smart Repair",
+      "Mechanische, hydraulische und elektrische Sicherheitsvorrichtungen gemäß EN 1493",
+      "Geringer Platzbedarf für besseren Zugang zum Fahrzeug und mehr Arbeitsfläche"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitim1835.jpg",
+     "/images/hebebuehnen/fitim1835-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1680" }
+    ]
+  },
+
+  {
+    "slug": "compact-13-196-30",
+    "title": "JOLLIFT COMPACT 13-196-30",
+    "brand": "fitim-unterflur",
+    "subtitle": " ",
+    "image": "/images/hebebuehnen/fitimc30.jpg",
+    "longDescription": [
+      "Unterflur Bühne",
+      "Bühne mit Gummiauflagen",
+      "Bühne mit Plattformen zum Heben an den Rädern",
+      "Automatisches Öffnen und Schließen der Schwenkarme lieferbar",
+      "Fernsteuerung mit magnetischem Steuerkasten lieferbar für JOLLIFT COMPACT 13-196-30 PH",
+      "Elektrohydraulische Modelle mit pneumatischer Steuerung lieferbar (JOLLIFT COMPACT 13-196-30 PE)",
+      "Unterflurhebebühne mit geringer Einbautiefe (140 mm) – geeignet für Lackierkabinen, Vorbereitungsplätze, Montage und Demontage von Fahrzeugen sowie den Abnahmebereich",
+      "ATEX-Version lieferbar",
+      "Bündig mit dem Boden montierbar",
+      "Einfach, schnell und sicher dank der Stop-Vorrichtung, die beim Herausfahren aus der Grube eine Beschädigung der Fahrzeugunterseite verhindert",
+      "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+      "Radaufnahmeplatten, vorbereitet für JOLLYPULL Smart Repair",
+      "Mechanische, hydraulische und elektrische Sicherheitsvorrichtungen gemäß EN 1493",
+      "Geringer Platzbedarf für besseren Zugang zum Fahrzeug und mehr Arbeitsfläche"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimc30.jpg",
+     "/images/hebebuehnen/fitimc30-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3000" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1170" }
+    ]
+  },
+
+  {
+    "slug": "compact-13-220-35",
+    "title": "JOLLIFT COMPACT 13-220-35",
+    "brand": "fitim-unterflur",
+    "subtitle": " ",
+    "image": "/images/hebebuehnen/fitimc35.jpg",
+    "longDescription": [
+      "Unterflur Bühne",
+      "Bühne mit Gummiauflagen",
+      "Bühne mit Plattformen zum Heben an den Rädern",
+      "Automatisches Öffnen und Schließen der Schwenkarme lieferbar",
+      "Fernsteuerung mit magnetischem Steuerkasten lieferbar für JOLLIFT COMPACT 13-196-35 PH",
+      "Elektrohydraulische Modelle mit pneumatischer Steuerung lieferbar (JOLLIFT COMPACT 13-196-35 PE)",
+      "Unterflurhebebühne mit geringer Einbautiefe (130 mm) – geeignet für Lackierkabinen, Vorbereitungsplätze, Montage und Demontage von Fahrzeugen sowie den Abnahmebereich",
+      "ATEX-Version lieferbar",
+      "Bündig mit dem Boden montierbar",
+      "Einfach, schnell und sicher dank der Stop-Vorrichtung, die beim Herausfahren aus der Grube eine Beschädigung der Fahrzeugunterseite verhindert",
+      "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+      "Radaufnahmeplatten, vorbereitet für JOLLYPULL Smart Repair",
+      "Mechanische, hydraulische und elektrische Sicherheitsvorrichtungen gemäß EN 1493",
+      "Geringer Platzbedarf für besseren Zugang zum Fahrzeug und mehr Arbeitsfläche"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimc35.jpg",
+     "/images/hebebuehnen/fitimc35-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1170" }
+    ]
+  },
+  {
+    "slug": "master3700in",
+    "title": "MASTER 3700.IN",
+    "brand": "fitim-unterflur",
+    "subtitle": " keine daten",
+    "image": "/images/hebebuehnen/fitim1330.jpg",
+    "longDescription": [
+    "Unterflur Bühne"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitim1330.jpg",
+     "/images/hebebuehnen/fitim1330-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3000" },
+      { "name": "Ma0ximale Höhe", "unit": "mm", "value": "1300" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "96" }
+    ]
+  },
+  {
+    "slug": "master5000in",
+    "title": "MASTER 5000.IN",
+    "brand": "fitim-unterflur",
+    "subtitle": "",
+    "image": "/images/hebebuehnen/fitimm5000in.jpg",
+    "longDescription": [
+    "Unterflur Bühne",
+    "Gleiche Aufbhame zum Anheben an den Rädern und am Schweller mit Gummiauflagen",
+    " Bühne für CARS, VANS, SUVS, PICKUPS, UTILITY TRUCKS",
+    "Das Fahrzeug kann mit zwei hängenden und zwei Rädern an den Platten angehoben werden"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimm5000in.jpg",
+     "/images/hebebuehnen/fitimm5000in-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "5000" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1330" }
+    ]
+  },
+  {
+    "slug": "30",
+    "title": "JOLLIFT 30",
+    "brand": "fitim-unterflur",
+    "subtitle": "Mit festen Radaufnahmeplatten",
+    "image": "/images/hebebuehnen/fitim30.jpg",
+    "longDescription": [
+    "Unterflur Bühne",
+    "Bühne mit im Boden eingelassenen Radaufnahmeplatten",
+    "Elektrohydraulische Modelle mit pneumatischer Steuerung, elektrohydraulische und pneumohydraulische Ausführungen lieferbar",
+    "Hebebühne für Lackierkabinen und Vorbereitungsplätze",
+    "ATEX-Version lieferbar",
+    "Einfache Unterkonstruktion zum Versenken der Hebebühne und unkomplizierte Montage dank der Querträger für Radaufnahmen"      ],
+    "images": [
+     "/images/hebebuehnen/fitim30.jpg",
+     "/images/hebebuehnen/fitim30-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3000" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1000" }
+    ]
+  },
+  {
+    "slug": "35",
+    "title": "JOLLIFT 35",
+    "brand": "fitim-unterflur",
+    "subtitle": "Mit festen Radaufnahmeplatten",
+    "image": "/images/hebebuehnen/fitim35.jpg",
+    "longDescription": [
+    "Unterflur Bühne",
+     "Bühne mit im Boden eingelassenen Radaufnahmeplatten",
+    "Elektrohydraulische Modelle mit pneumatischer Steuerung erhältlich",
+    "Hebebühne geeignet für Lackierkabinen und Vorbereitungsplätze",
+    "ATEX-Version lieferbar",
+    "Einfach zu bauende Unterkonstruktion zum Versenken der Hebebühne",
+    "Einfache Montage dank integrierter Querträger für Radaufnahmen"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitim35.jpg",
+     "/images/hebebuehnen/fitim35-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1360" }
+    ]
+  },
+  {
+    "slug": "xxx",
+    "title": "JOLLIFT L5 N",
+    "brand": "fitim-unterflur",
+    "subtitle": "keine Daten",
+    "image": "/images/hebebuehnen/fitim1330.jpg",
+    "longDescription": [
+    "Unterflur Bühne"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitim1330.jpg",
+     "/images/hebebuehnen/fitim1330-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3000" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1300" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "96" }
+    ]
+  },
+  {
+    "slug": "l8n",
+    "title": "JOLLIFT L8 N",
+    "brand": "fitim-unterflur",
+    "subtitle": "Mit festen Radaufnahmeplatten",
+    "image": "/images/hebebuehnen/fitiml8.jpg",
+    "longDescription": [
+    "Unterflur Bühne",
+     "Bühne mit im Boden eingelassenen Radaufnahmeplatten",
+    "Elektrohydraulische Modelle mit pneumatischer Steuerung erhältlich",
+     "Tiefe Hebebühne für Gruben mit einer Tiefe von 130 mm: Lackierkabinen, Vorbereitungsbereiche",
+     "ATEX-Version lieferbar",
+    "Einfach zu bauende Unterkonstruktion zum Versenken der Hebebühne",
+    "Einfache Montage dank integrierter Querträger für Radaufnahmen"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitiml8.jpg",
+     "/images/hebebuehnen/fitiml8-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3000" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1440" }
+    ]
+  },
+
+
+
+  {
+    "slug": "easylift3000",
+    "title": "Easy Lift 3000",
+    "brand": "cmo",
+    "subtitle": "BSELO",
+    "image": "/images/hebebuehnen/cmo3000.png",
+    "longDescription": "MOBILER HYDROPNEUMATISCHER WAGENHEBER MIT SÄULENSTRUKTUR \n\nvEs handelt sich um einen mobilen hydropneumatischen Wagenheber mit Säulenkonstruktion, der zum Anheben von Fahrzeugen an den Vorder- oder Hinterrädern oder am Fahrwerk mit Hilfe geeigneter Gabeln entwickelt und konstruiert wurde. Das Anheben und Absenken erfolgt über einen Schlitten, der an einer mit einem Hydraulikkolben verbundenen Kette befestigt ist. Hydropneumatische Pumpensteuerung, geringe Gesamtabmessungen und bemerkenswerte Manövrierfähigkeit durch Räder, die eine einfache Bewegung ermöglichen.",
+    "images": [
+     "/images/hebebuehnen/cmo3000.png",
+     "/images/hebebuehnen/cmo3000-1.jpg",
+      "/images/hebebuehnen/cmo3000-2.jpg",
+      "/images/hebebuehnen/cmo3000-3.jpg",
+      "/images/hebebuehnen/cmo3000-4.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3000" },
+      { "name": "Höhe", "unit": "mm", "value": "1330" },
+      { "name": "Breite", "unit": "mm", "value": "660" },
+      { "name": "Länge", "unit": "mm", "value": "1010" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "955" },
+      { "name": "Gewicht", "unit": "kg", "value": "130" },
+      { "name": "Pumpe", "unit": "bar", "value": "370" },
+      { "name": "Verpackung", "unit": "mm", "value": "1200 x 800 x 500" }
+
+
+    ]
+  }
+  
+  
+]

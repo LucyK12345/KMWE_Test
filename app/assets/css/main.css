@@ -1,0 +1,170 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@font-face {
+    font-family: 'OfficinaSansITCTTBold';
+    src: url('/fonts/OfficinaSansITCTTBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  header {
+    font-family: 'OfficinaSansITCTTBold', sans-serif;
+  }
+  h1 {
+    font-family: 'OfficinaSansITCTTBold';
+  }
+  h2 {
+    font-family: 'OfficinaSansITCTTBold';
+  }
+  button {
+    font-family: 'OfficinaSansITCTTBold';
+  }
+
+  .content-container {
+  padding-left: 1.5rem;   /* entspricht Tailwind: px-6 */
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 1024px) {
+  .content-container {
+    padding-left: 3rem;   /* lg:px-12 */
+    padding-right: 3rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .content-container {
+    padding-left: 120px;  /* xl:pl-[120px] */
+    padding-right: 2rem;  /* xl:pr-8 = 32px */
+  }
+}
+
+.product-headline {
+  max-width: 80rem; /* entspricht max-w-7xl */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.5rem;  /* px-2 */
+  padding-right: 0.5rem;
+  padding-top: 2rem;     /* py-8 */
+  padding-bottom: 2rem;
+  font-size: 1.125rem;   /* text-lg */
+  color: #111827;        /* text-gray-900 */
+}
+
+@media (min-width: 640px) {
+  .product-headline {
+    padding-left: 1.5rem; /* sm:px-6 */
+    padding-right: 1.5rem;
+  }
+}
+
+.product-detail {
+  max-width: 1540px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem; /* px-6 */
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 1024px) {
+  .product-detail {
+    padding-left: 3rem;  /* lg:px-12 */
+    padding-right: 3rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .product-detail {
+    padding-left: 120px; 
+    padding-right: 120px; 
+  }
+}
+ 
+
+
+
+
+
+
+
+
+.width-container {
+  padding-left: 1.5rem; /* Tailwind: px-6 */
+  padding-right: 1.5rem;
+  max-width: 1540px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 1024px) {
+  .width-container {
+    padding-left: 3rem; /* lg:px-12 */
+    padding-right: 3rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .width-container {
+    padding-left: 120px;  /* xl:pl-[120px] */
+    padding-right: 2rem;  /* xl:pr-8 */
+  }
+}
+
+
+
+
+
+
+
+
+.product-grid-wrapper {
+  padding-left: 2rem;  /* etwas mehr */
+  padding-right: 2rem;
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 1024px) {
+  .product-grid-wrapper {
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .product-grid-wrapper {
+    padding-left: 160px;
+    padding-right: 160px;
+  }
+}
+
+
+/*Button*/
+.btn-kmwe {
+  background-color: #597B1C;
+  color: white;
+  padding: 0.5rem 1rem; /* px-4 py-2 */
+  border-radius: 0.5rem; /* rounded-lg */
+  cursor: pointer;
+  transition: 0.2s;
+  font-family: 'OfficinaSansITCTTBold', sans-serif;
+}
+
+.btn-kmwe:hover {
+  background-color: #4E6C19;
+}
+.btn-kmwe:active {
+  background-color: #4E6C19;
+  transform: scale(0.97);
+}
+
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+}

@@ -1,0 +1,285 @@
+[  {
+    "slug": "clair1000",
+    "title": "CLAIR 1000",
+    "brand": "clair",
+    "subtitle": "noch keine Daten",
+    "image": "/images/absauganlagen/clair3000.png",
+    "longDescription": " ",
+    "images": [
+     "/images/absauganlagen/clair3000.png"
+    ],
+    "specs": [
+      { "name": "Stromaufnahme", "unit": "V", "value": "400" },
+      { "name": "Stromaufnahme", "unit": "kW", "value": "1,5" },
+      { "name": "Geräuschentwicklung", "unit": "dB(A)", "value": "69" },
+      { "name": "Grundfläche ausgeschaltet", "unit": "mm", "value": "900 x 810" },
+      { "name": "Grundfläche eingeschaltet mit Plenum", "unit": "mm", "value": "900 x 3400" },
+      { "name": "Höhe", "unit": "m", "value": "2,65" },
+      { "name": "Gewicht", "unit": "kg", "value": "175" }
+
+    ]
+  },
+    {
+    "slug": "clair2000",
+    "title": "CLAIR 2000",
+    "brand": "clair",
+    "subtitle": "noch keine Daten",
+    "image": "/images/absauganlagen/clair3000.png",
+    "longDescription": "CLAIR besteht aus einem verzinktem Stahlblechgehäuse und einem durch explosionsgeschützten Motor angetriebenen, aus Schwarzblech geschweißtem Radiallaufrad. Die Einströmdüse ist auf der in das Radiallaufrad hineinragenden Seite mit einem Kupfer- bzw. Messingstreifen versehen, so dass eventuelles Funkenreisen bei Kontakt mit dem Radiallaufrad ausgeschlossen werden kann. \n\n Auf der Front und an den Seiten rechts und links des Absauggerätes sind jeweils nach DIN 4102 nicht brennbare Filtermatten zur Farbnebelabscheidung in speziellen Rahmen eingesetzt. Danach folgt jeweils ein Z-Liner Filter nach DIN53438 der Brandklasse F1. \n Im Schacht unten ist ein Kompaktfilter nach DIN 53438 eingesetzt, Brandverhalten F1/K1 M1. Die Luft wird über die 3 Filterflächen am Gerät angesaugt und passieren einen Vorfilter, Hauptfilter, danach einen Feinstaubfilter der die Querschnittsfläche erhöht und die Luftgeschwindigkeit reduziert. Im weiteren Verlauf wird die Luft wieder im Schacht gebündelt, bevor die Luft nach oben in dem gebogenen Stahlblechanschluss und dem angebrachten Plenum wieder abgegeben wird. \n\n Ex-Zonen: \n - Ex II 3D T6 für Zone 22 \n - Ex II 3D T6 für Zone 2",
+    "images": [
+     "/images/absauganlagen/clair3000.png"
+    ],
+    "specs": [
+      { "name": "Stromaufnahme", "unit": "V", "value": "400" },
+      { "name": "Stromaufnahme", "unit": "kW", "value": "1,5" },
+      { "name": "Geräuschentwicklung", "unit": "dB(A)", "value": "69" },
+      { "name": "Grundfläche ausgeschaltet", "unit": "mm", "value": "900 x 810" },
+      { "name": "Grundfläche eingeschaltet mit Plenum", "unit": "mm", "value": "900 x 3400" },
+      { "name": "Höhe", "unit": "m", "value": "2,65" },
+      { "name": "Gewicht", "unit": "kg", "value": "175" }
+
+    ]
+  },
+  {
+    "slug": "clair3000",
+    "title": "CLAIR 3000",
+    "brand": "clair",
+    "subtitle": "Staubabsauggerät mit Direktantrieb mit Trockenabscheidung",
+    "image": "/images/absauganlagen/clair3000.png",
+    "longDescription": "CLAIR besteht aus einem verzinktem Stahlblechgehäuse und einem durch explosionsgeschützten Motor angetriebenen, aus Schwarzblech geschweißtem Radiallaufrad. Die Einströmdüse ist auf der in das Radiallaufrad hineinragenden Seite mit einem Kupfer- bzw. Messingstreifen versehen, so dass eventuelles Funkenreisen bei Kontakt mit dem Radiallaufrad ausgeschlossen werden kann. \n\n Auf der Front und an den Seiten rechts und links des Absauggerätes sind jeweils nach DIN 4102 nicht brennbare Filtermatten zur Farbnebelabscheidung in speziellen Rahmen eingesetzt. Danach folgt jeweils ein Z-Liner Filter nach DIN53438 der Brandklasse F1. \n Im Schacht unten ist ein Kompaktfilter nach DIN 53438 eingesetzt, Brandverhalten F1/K1 M1. Die Luft wird über die 3 Filterflächen am Gerät angesaugt und passieren einen Vorfilter, Hauptfilter, danach einen Feinstaubfilter der die Querschnittsfläche erhöht und die Luftgeschwindigkeit reduziert. Im weiteren Verlauf wird die Luft wieder im Schacht gebündelt, bevor die Luft nach oben in dem gebogenen Stahlblechanschluss und dem angebrachten Plenum wieder abgegeben wird. \n\n Ex-Zonen: \n - Ex II 3D T6 für Zone 22 \n - Ex II 3D T6 für Zone 2",
+    "images": [
+     "/images/absauganlagen/clair3000.png"
+    ],
+    "specs": [
+      { "name": "Stromaufnahme", "unit": "V", "value": "400" },
+      { "name": "Stromaufnahme", "unit": "kW", "value": "1,5" },
+      { "name": "Geräuschentwicklung", "unit": "dB(A)", "value": "69" },
+      { "name": "Grundfläche ausgeschaltet", "unit": "mm", "value": "900 x 810" },
+      { "name": "Grundfläche eingeschaltet mit Plenum", "unit": "mm", "value": "900 x 3400" },
+      { "name": "Höhe", "unit": "m", "value": "2,65" },
+      { "name": "Gewicht", "unit": "kg", "value": "175" }
+
+    ]
+  },
+
+  {
+    "slug": "clair5000",
+    "title": "CLAIR 5000",
+    "brand": "clair",
+    "subtitle": "Staub-Farbnebelabsauggerät mit Direktantrieb mit Trockenabscheidung",
+    "image": "/images/absauganlagen/clair5000.jpg",
+    "longDescription": "CLAIR besteht aus einem verzinktem Stahlblechgehäuse und einem nicht im Luftstrom sitzendem explosionsgeschützten Motor als Antrieb für das aus Schwarzblech geschweißtem Radiallaufrad. Die Einströmdüse ist auf der in das Radiallaufrad hineinragenden Seite mit einem Kupfer- bzw. Messingstreifen versehen, so dass eventuelles Funkenreisen bei Kontakt mit dem Radiallaufrad ausgeschlossen werden kann. \n\n Auf der Front und an den Seiten rechts und links des Absauggerätes sind jeweils nach DIN 4102 nicht brennbare Filtermatten zur Farbnebelabscheidung in speziellen Rahmen eingesetzt. Danach folgt jeweils ein Z-Liner Filter nach DIN53438 der Brandklasse F1. \n Im Schacht unten ist ein Kompaktfilter nach DIN 53438 eingesetzt, Brandverhalten F1/K1 M1, darüber ist eine spezielle Aktivkohlefiltereinheit. Im oberen Schacht befindet sich ein Taschenfilter.\n Die Luft wird über die 3 Filterflächen am Gerät angesaugt und passieren einen Vorfilter, Hauptfilter, danach einen Feinstaubfilter der die Querschnittsfläche erhöht und die Luftgeschwindigkeit reduziert. Diesen folgt eine spezielle Aktivkohlefiltereinheit die aus mehreren schräg angeordneten Platten besteht und die Luftgeschwindigkeit stark reduziert damit die Kontaktzeit der Schadstoffe mit der Aktivkohle erhöht wird. Im weiteren Verlauf wird die Luft wieder im Schacht gebündelt und es ist ein Taschenfilter nachgeschaltet, bevor die Luft nach oben in dem gebogenen Stahlblechanschluss und dem angebrachten Plenum wieder abgegeben wird. \n\n Ex Zonen:\n Ex II 3D T6 für Zone 22 \n Ex II 3G T6 für Zone 2",
+    "images": [
+     "/images/absauganlagen/clair5000.jpg"
+    ],
+    "specs": [
+      { "name": "Stromaufnahme", "unit": "V", "value": "400" },
+      { "name": "Stromaufnahme", "unit": "kW", "value": "1,5" },
+      { "name": "Geräuschentwicklung", "unit": "dB(A)", "value": "69" },
+      { "name": "Grundfläche ausgeschaltet", "unit": "mm", "value": "900 x 795" },
+      { "name": "Grundfläche eingeschaltet mit Plenum", "unit": "mm", "value": "900 x 3400" },
+      { "name": "Höhe", "unit": "m", "value": "2,65" },
+      { "name": "Gewicht", "unit": "kg", "value": "285" }
+
+    ]
+  },
+
+  {
+    "slug": "absaugtisch-clair-t1",
+    "title": "Absaugtisch CLAIR-T1",
+    "brand": "clair-zubehoer",
+    "subtitle": "zum Anschluss an CLAIR5000",
+    "image": "/images/absauganlagen/t1.png",
+    "longDescription": "Ein mobiler Absaugtisch mit 4 Räder (2 gebremst), der mit der vorderen Ansaugfläche der Clair5000 mittels Schlauch verbunden wird. Das Plenum wird über dem Absaugtisch platziert und drückt die Luft von oben nach unten, um das Lackierergebnis zu verbessern. Die Reinigung erfolgt in der Clair5000 mit ihrem ausgeklügelten Filtersystem. \n\n Für Kleinteil-Lackierung wird der Absaugtisch, bestehend aus einer Gitterberostung, Vorfilter und Z-Liner Filter, mit einem 355 mm Schlauchanschluss mit der Clair 5000 als Absaugeinrichtung verbunden. Hierzu wird an der Clair die vordere Filtereinheit entfernt und der Anschluss für den Schlauch eingesetzt. Das Plenum wird über dem Tisch platziert, damit der Farbnebel und Stäube nach unten gedrückt werden und so die Absaugleistung erhöht wird. \n\n Die Geräte entsprechen den gültigen CE und ATEX (Zone 2 und 22) Richtlinien. \n\nBestehend aus: \n- Absaugtisch CLAIR-T1 \n- Verbindungsschlauch 355mm inkl. Anschlussstutzen\n - 2 Blindbleche für die Seitenfilter der Clair 5000.",
+    "images": [
+     "/images/absauganlagen/t1.png",
+     "/images/absauganlagen/t1-1.png"
+    ],
+    "specs": [
+      { "name": "Breite", "unit": "mm", "value": "1460" },
+      { "name": "Tiefe", "unit": "mm", "value": "800" },
+      { "name": "Gesamthöhe", "unit": "mm", "value": "1300" },
+      { "name": "Arbeitshöhe", "unit": "mm", "value": "800" },
+      { "name": "Verbindungsschlauch", "unit": "mm", "value": "355" }
+
+    ]
+  },
+  {
+    "slug": "absaugtisch-clair-t2",
+    "title": "Absaugtisch CLAIR-T2",
+    "brand": "clair-zubehoer",
+    "subtitle": "zum Anschluss an ClAIR2500/5000",
+    "image": "/images/absauganlagen/t2.png",
+    "longDescription": "Wie CLAIR-T1 jedoch wird am Luftausgang ein Schlauch an die oberen Rohre des Absaugtisches angeschlossen, um Luft von oben nach unten in die Filterfläche zu drücken.\nZum Einstellen der Luft von oben können die Rohre gedreht werden. \n\nDas Plenum wird über dem Tisch platziert, damit der Farbnebel und Stäube nach unten gedrückt werden und so die Absaugleistung erhöht wird. \n\nDie Geräte entsprechen den gültigen CE und ATEX (Zone 2 und 22) Richtlinien.\n\nBestehend aus: \n-Absaugtisch CLAIR-T2 \n- Verbindungsschlauch 355mm inkl. Anschlussstutzen \n- 2 Blindbleche für die Seitenfilter der Clair 2500",
+    "images": [
+     "/images/absauganlagen/t2.png"
+    ],
+    "specs": [
+      { "name": "Breite", "unit": "mm", "value": "1500" },
+      { "name": "Nutzbreite innen", "unit": "mm", "value": "1460" },
+      { "name": "Tiefe", "unit": "mm", "value": "800" },
+      { "name": "Gesamthöhe", "unit": "mm", "value": "2000" },
+      { "name": "Arbeitshöhe", "unit": "mm", "value": "800" },
+      { "name": "Verbindungsschlauch", "unit": "mm", "value": "355" }
+
+    ]
+  },
+  {
+    "slug": "absaugblock",
+    "title": "Absaugblock CL-ASB",
+    "brand": "clair-zubehoer",
+    "subtitle": "zum Anschluss an alle CLAIR Modelle",
+    "image": "/images/absauganlagen/asb.png",
+    "longDescription": "Abscheideblock mit Staubauffang-Schublade, mit 355mm Anschluss oben und unten, Filteraufnahme für doppelt, bzw. dreifach Filtrierung. \n\nAnschlussblech für Clair Absauganlage und Blindbleche werden benötigt. ",
+    "images": [
+     "/images/absauganlagen/asb.png"
+    ],
+    "specs": [
+      { "name": "Höhe", "unit": "mm", "value": "1295" },
+      { "name": "Grundfläche", "unit": "mm", "value": "660 x 660" }
+
+    ]
+  },
+  {
+    "slug": "trichter",
+    "title": "Trichter CL-TRICHT",
+    "brand": "clair-zubehoer",
+    "subtitle": "zum Anschluss an alle CLAIR Modelle",
+    "image": "/images/absauganlagen/tricht.png",
+    "longDescription": "Absaugtrichter zur punktuellen und Innenraum Absaugung\n- 1 Filtergehäuse inkl. Kanalübergang auf Nenn Ø 355 mm\n-  1 hochflexibler Spiralschlauch Nenn Ø 355 mm, 5 m lang\n - 1 Paar Steckmanschetten, auf Spiralschlauch montiert\n - 1 Einsatz für die vordere Filterfläche inkl. Stutzen Nenn Ø 355 mm\n- 2 Blindbleche, passend für die seitlichen Filterflächen\n\nZusätzlich Verfügbar: CL-HEB\nUniverseller Heber für Clair Trichter",
+    "images": [
+     "/images/absauganlagen/tricht.png"
+    ]
+  },
+  {
+    "slug": "erhoehungen",
+    "title": "Erhöhungen",
+    "brand": "clair-zubehoer",
+    "subtitle": "noch keine Daten",
+    "image": "/images/absauganlagen/clair5000.jpg",
+    "longDescription": "",
+    "images": [
+     "/images/absauganlagen/clair5000.jpg"
+    ],
+    "specs": [
+      { "name": "Stromaufnahme", "unit": "V", "value": "400" }
+
+    ]
+  },
+  {
+    "slug": "schlaeuche",
+    "title": "Schläuche",
+    "brand": "clair-zubehoer",
+    "subtitle": "noch keine Daten",
+    "image": "/images/absauganlagen/clair5000.jpg",
+    "longDescription": "",
+    "images": [
+     "/images/absauganlagen/clair5000.jpg"
+    ],
+    "specs": [
+      { "name": "Stromaufnahme", "unit": "V", "value": "400" }
+
+    ]
+  },
+  {
+    "slug": "hepa",
+    "title": "CL-Hepa",
+    "brand": "clair-zubehoer",
+    "subtitle": "zum Anschluss an ClAIR 2000 - 5000",
+    "image": "/images/absauganlagen/hepa.png",
+    "longDescription": "Filtergehäuse zur Aufnahme von 2 HEPA H14 Filter, passend für Clair. \nHiermit werden Viren und Micropartikel zurückgehalten.",
+    "images": [
+     "/images/absauganlagen/hepa.png"
+    ],
+    "specs": [
+      { "name": "Breite oben", "unit": "mm", "value": "1500" }
+
+    ]
+  },
+  {
+    "slug": "ersatzfilter",
+    "title": "Ersatzfilter",
+    "brand": "clair-zubehoer",
+    "subtitle": "noch keine Daten",
+    "image": "/images/absauganlagen/clair5000.jpg",
+    "longDescription": "",
+    "images": [
+     "/images/absauganlagen/clair5000.jpg"
+    ],
+    "specs": [
+      { "name": "Stromaufnahme", "unit": "V", "value": "400" }
+
+    ]
+  },
+  {
+    "slug": "clair-filterbestellliste",
+    "title": "Filterbestellliste",
+    "brand": "clair-zubehoer",
+    "subtitle": "noch keine Daten",
+    "image": "/images/absauganlagen/clair5000.jpg",
+    "longDescription": "",
+    "images": [
+     "/images/absauganlagen/clair5000.jpg"
+    ],
+    "specs": [
+      { "name": "Stromaufnahme", "unit": "V", "value": "400" }
+
+    ]
+  },
+  {
+    "slug": "duster3000",
+    "title": "Duster 3000 Downdraft",
+    "brand": "duster",
+    "subtitle": "Umluft- Abluftabsauganlage",
+    "image": "/images/absauganlagen/duster.jpg",
+    "longDescription": "Die mobile und energiesparende Umluft- Abluftabsauganlage sorgt für eine gereinigte Luft in Ihrem Betrieb. Ob beim Schleifen, Füllern oder Lackieren – der Duster 3000 Downdraft verbessert die Atemluft an Ihrem Arbeitsplatz, indem er Staub, Lösemittel, sowie andere Gift und Geruchstoffe aus der Luft filtert. \n\nOptimal für Spot Repair und Vorbereitungsplätze zum Schleifen und Füllern.\n\n Effiziente Luftreinigung durch ein 4-Filter-System (Vorfilter, Kasettenfilter,  Aktivkohlefilter und Taschenfilter). \n\n Aufbau des Gehäuses: Doppelt verzinktes Blech mit hellgrauer Pulverbeschichtung. ",
+    "images": [
+     "/images/absauganlagen/duster.jpg",
+     "/images/absauganlagen/duster-1.png",
+     "/images/absauganlagen/duster-2.jpg",
+     "/images/absauganlagen/duster-3.png"
+
+    ],
+    "specs": [
+      { "name": "Gewicht", "unit": "kg", "value": "123,5" },
+      { "name": "Abmessungen Grundplatte", "unit": "m", "value": "0,8 x 0,9" },
+      { "name": "Höhe", "unit": "m", "value": "2,6" },
+      { "name": "Gesamtlänge", "unit": "m", "value": "3,6" },
+      { "name": "Absaugung", "unit": "m3/h", "value": "5100" },
+      { "name": "Arbeitslautstärke", "unit": "db", "value": "67" },
+      { "name": "Stromverbrauch", "unit": "V", "value": "230" },
+      { "name": "Stromverbrauch", "unit": "W", "value": "1500dust" }
+
+    ]
+  },
+  {
+    "slug": "umruestkit",
+    "title": "Filter Umrüstkit",
+    "brand": "duster",
+    "subtitle": "noch keine Daten",
+    "image": "/images/absauganlagen/clair5000.jpg",
+    "longDescription": "",
+    "images": [
+     "/images/absauganlagen/clair5000.jpg"
+    ],
+    "specs": [
+      { "name": "Stromaufnahme", "unit": "V", "value": "400" }
+
+    ]
+  },
+  {
+    "slug": "duster-filterbestellliste",
+    "title": "Filterbestellliste",
+    "brand": "duster",
+    "subtitle": "noch keine Daten",
+    "image": "/images/absauganlagen/clair5000.jpg",
+    "longDescription": "",
+    "images": [
+     "/images/absauganlagen/clair5000.jpg"
+    ],
+    "specs": [
+      { "name": "Stromaufnahme", "unit": "V", "value": "400" }
+
+    ]
+  }
+]

@@ -1,0 +1,370 @@
+[
+{
+    "slug": "1330-bench",
+    "title": "JOLLIFT 1330 BENCH",
+    "brand": "ueberflur",
+    "subtitle": "Bühne mit Plattformen zum Heben an Rädern",
+    "image": "/images/richtanlagen/1330b.jpg",
+    "longDescription": [
+    "Überflur Richtanlage",
+    "Fahrbar",
+    "Bühne mit Gummiauflagen",
+    "Bühne mit Plattformen zum Heben an Rädern",
+    "Die Schwenkarme und Aufnahmen mit Spannklemmen sind unabhängig von der Bühne",
+    "Das Zuggerät kann vorne, hinten und an den Seiten befestigt werden",
+    "Verringerte Mindesthöhe dank FITIM POWER ENERGY-Technologie",
+    "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+    "Klappbare Schwenkarme unabhängig von den Halteklemmen",
+    "Zwei Modelle herkömmlicher Schwellerklemmen erhältlich",
+    "Schnelles Verankerungssystem für die Karosserie- und Fahrgestelllöcher– verfügbar für viele Automarken",
+    "Drei verschiedene Modelle von Zuggeräten verfügbar: einfache horizontale Drehung (6 TON) oder doppelte horizontale Drehung (6 TON oder 10 TON)",
+    "Das Zuggerät kann an jeder Stelle der Hebebühne montiert werden und die Zugkraft wird mit dem serienmäßigen Manometer kontrolliert",
+    "Verschiedenes Zubehör ist auf Wunsch erhältlich",
+    "Mechanische / hydraulische / elektrische Sicherheitsvorrichtungen gemäß der Norm EN 1493"
+    ],
+    "images": [
+     "/images/richtanlagen/1330b.jpg",
+     "/images/richtanlagen/1330b-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3000" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1300" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "100" }
+    ]
+  },
+
+  {
+    "slug": "1335-bench",
+    "title": "JOLLIFT 1335 BENCH",
+    "brand": "ueberflur",
+    "subtitle": "Bühne mit Plattformen zum Heben an Rädern",
+    "image": "/images/richtanlagen/1335b.jpg",
+    "longDescription": [
+    "Überflur Richtanlage",
+    "Bühne mit Gummiauflagen",
+    "Bühne mit Plattformen zum Heben an Rädern",
+    "Die Schwenkarme und Aufnahmen mit Spannklemmen sind unabhängig von der Bühne",
+    "Das Zuggerät kann vorne, hinten und an den Seiten befestigt werden",
+    "Es können gleichzeitig mehrere Zuggeräte verwendet werden",
+    "Verringerte Mindesthöhe dank FITIM POWER ENERGY-Technologie",
+    "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+    "Klappbare Schwenkarme unabhängig von den Halteklemmen",
+    "Zwei Modelle herkömmlicher Schwellerklemmen erhältlich",
+    "Schnelles Verankerungssystem für die Karosserie- und Fahrgestelllöcher– verfügbar für viele Automarken",
+    "Drei verschiedene Modelle von Zuggeräten verfügbar: einfache horizontale Drehung (6 TON) oder doppelte horizontale Drehung (6 TON oder 10 TON)",
+    "Das Zuggerät kann an jeder Stelle der Hebebühne montiert werden und die Zugkraft wird mit dem serienmäßigen Manometer kontrolliert",
+    "Verschiedenes Zubehör ist auf Wunsch erhältlich",
+    "Mechanische / hydraulische / elektrische Sicherheitsvorrichtungen gemäß der Norm EN 1493"
+    ],
+    "images": [
+     "/images/richtanlagen/1335b.jpg",
+     "/images/richtanlagen/1335b-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1300" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "100/105" }
+    ]
+  },
+  {
+    "slug": "master-bench-35",
+    "title": "JOLLIFT MASTER BENCH 35",
+    "brand": "ueberflur",
+    "subtitle": "Bühne mit Plattformen zum Heben an Rädern",
+    "image": "/images/richtanlagen/mb35.jpg",
+    "longDescription": [
+    "Überflur Richtanlage",
+    "Fahrbar",
+    "Bühne mit Gummiauflagen",
+    "Bühne mit Plattformen zum Heben an Rädern",
+    "Die Schwenkarme und Aufnahmen mit Spannklemmen sind unabhängig von der Bühne",
+    "Das Zuggerät kann vorne, hinten und an den Seiten befestigt werden",
+    "Es können gleichzeitig mehrere Zuggeräte verwendet werden",
+    "Verringerte Mindesthöhe dank FITIM POWER ENERGY-Technologie",
+    "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+    "Klappbare Schwenkarme unabhängig von den Halteklemmen",
+    "Zwei Modelle herkömmlicher Schwellerklemmen erhältlich",
+    "Schnelles Verankerungssystem für die Karosserie- und Fahrgestelllöcher– verfügbar für viele Automarken",
+    "Drei verschiedene Modelle von Zuggeräten verfügbar: einfache horizontale Drehung (6 TON) oder doppelte horizontale Drehung (6 TON oder 10 TON)",
+    "Das Zuggerät kann an jeder Stelle der Hebebühne montiert werden und die Zugkraft wird mit dem serienmäßigen Manometer kontrolliert",
+    "Verschiedenes Zubehör ist auf Wunsch erhältlich",
+    "Mechanische / hydraulische / elektrische Sicherheitsvorrichtungen gemäß der Norm EN 1493"
+    ],
+    "images": [
+     "/images/richtanlagen/mb35.jpg",
+     "/images/richtanlagen/mb35-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1640" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "100/105" }
+    ]
+  },
+  {
+    "slug": "master3700es",
+    "title": "MASTER 3700.ES",
+    "brand": "ueberflur",
+    "subtitle": "",
+    "image": "/images/hebebuehnen/fitimm3700.jpg",
+    "longDescription": [
+    "Überflur Bühne",   
+    "Gleiche Aufnahmen für das Heben an Rädern oder am Schweller mit Gummiauflagen",
+    "Geeignet für Karosseriebetriebe, Werkstätten und Service-Stationen",
+    "Fahrzeug kann mit zwei aufliegenden und zwei freihängenden Rädern angehoben werden",
+    "Einsetzbar für PKW, Transporter und SUV",
+    "Erhältlich als Hebebühne",
+    "Erhältlich als Richtbank mit derselben Ausstattung wie die Überflur- bzw. Unterflur-Richtbänke",
+    "Mechanische, hydraulische und elektrische Sicherheitseinrichtungen gemäß EN 1493"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimm3700.jpg",
+     "/images/hebebuehnen/fitimm3700-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Hubhöhe bis zur Gummiauflage", "unit": "mm", "value": "1650" },
+      { "name": "Hubhöhe bis zur Radaufnahme oder Gummiauflage", "unit": "mm", "value": "1510" },
+      { "name": "Mindesthöhe", "unit": "mm", "value": "95 / 106" },
+      { "name": "Mindesthöhe bis zur Radaufnahme", "unit": "mm", "value": "36" }
+    ]
+  },
+  {
+    "slug": "master5000es",
+    "title": "MASTER 5000.ES ",
+    "brand": "ueberflur",
+    "subtitle": "",
+    "image": "/images/hebebuehnen/fitimm5000es.jpg",
+    "longDescription": [
+    "Überflur Bühne",
+   "Gleiche Aufbhame zum Anheben an den Rädern und am Schweller mit Gummiauflagen",
+   "Bühne für CARS, VANS, SUVS, PICKUPS, UTILITY TRUCKS, CAMPERS",
+"Gleiche Aufnahme zum Anheben an den Rädern oder am Schweller mit Gummiauflagen",
+"Das Fahrzeug kann mit zwei hängenden und zwei Rädern an den Platten angehoben werden.",
+ "Geeignet für Nutzfahrzeuge, Einsatzfahrzeuge, Wohnmobile sowie Pkw",
+ "Verfügbar als Hebebühne",
+ "Erhältlich als Richtbank mit gleicher Ausstattung bei Überflur und Unterflur Versionen",
+ "Überflur und Unterflur Versionen verfügbar"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimm5000es.jpg",
+     "/images/hebebuehnen/fitimm5000es-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "5000" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1450" },
+      { "name": "Minimale Höhe", "unit": "mm", "value": "120" }
+    ]
+  },
+
+
+
+
+  {
+    "slug": "3.5ton-maxi",
+    "title": "JOLLIFT 3.5 TON MAXI",
+    "brand": "unterflur",
+    "subtitle": "Bühne mit Plattformen zum Heben an Rädern",
+    "image": "/images/richtanlagen/maxi.jpg",
+    "longDescription": [
+    "Unterflur Richtanlage",
+    "Bühne mit Gummiauflagen",
+    "Bühne mit Plattformen zum Heben an Rädern",
+    "Die Schwenkarme und Aufnahmen mit Spannklemmen sind unabhängig von der Bühne",
+    "Das Zuggerät kann vorne, hinten und an den Seiten befestigt werden",
+    "Es können gleichzeitig mehrere Zuggeräte verwendet werden",
+    "Automatisches Öffnen und Schliessen der Schwenkarme lieferbar",
+    "Bündig mit dem Boden",
+    "Einfach, schnell und sicher aufgrund der Stop-Vorrichtung, wenn die Hebebühne aus der Grube fährt, um eine Beschädigung der Unterseite des Fahrzeugs zu vermeiden",
+    "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+    "Klappbare Schwenkarme unabhängig von den Halteklemmen",
+    "Zwei Modelle herkömmlicher Schwellerklemmen erhältlich",
+    "Schnelles Verankerungssystem für die Karosserie- und Fahrgestelllöcher– verfügbar für viele Automarken",
+    "Drei verschiedene Modelle von Zuggeräten verfügbar: einfache horizontale Drehung (6 TON) oder doppelte horizontale Drehung (6 TON oder 10 TON)",
+    "Das Zuggerät kann an jeder Stelle der Hebebühne montiert werden und die Zugkraft wird mit dem serienmäßigen Manometer kontrolliert",
+    "Verschiedenes Zubehör ist auf Wunsch erhältlich",
+    "Mechanische / hydraulische / elektrische Sicherheitsvorrichtungen gemäß der Norm EN 1493"
+    ],
+    "images": [
+     "/images/richtanlagen/maxi.jpg",
+     "/images/richtanlagen/maxi-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1440" },
+      { "name": "Länge der Plattform", "unit": "mm", "value": "2360" }
+    ]
+  },
+  {
+    "slug": "flex35",
+    "title": "JOLLIFT FLEX 35",
+    "brand": "unterflur",
+    "subtitle": "Bühne mit Plattformen zum Heben an Rädern",
+    "image": "/images/richtanlagen/flex.jpg",
+    "longDescription": [
+    "Unterflur Richtanlage",
+    "Bühne mit Gummiauflagen",
+    "Bühne mit Plattformen zum Heben an Rädern",
+    "Die Schwenkarme und Aufnahmen mit Spannklemmen sind unabhängig von der Bühne",
+    "Das Zuggerät kann vorne, hinten und an den Seiten befestigt werden",
+    "Es können gleichzeitig mehrere Zuggeräte verwendet werden",
+    "Automatisches Öffnen und Schliessen der Schwenkarme lieferbar",
+    "Bündig mit dem Boden",
+    "Einfach, schnell und sicher aufgrund der Stop-Vorrichtung, wenn die Hebebühne aus der Grube fährt, um eine Beschädigung der Unterseite des Fahrzeugs zu vermeiden",
+    "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+    "Klappbare Schwenkarme unabhängig von den Halteklemmen",
+    "Zwei Modelle herkömmlicher Schwellerklemmen erhältlich",
+    "Schnelles Verankerungssystem für die Karosserie- und Fahrgestelllöcher– verfügbar für viele Automarken",
+    "Drei verschiedene Modelle von Zuggeräten verfügbar: einfache horizontale Drehung (6 TON) oder doppelte horizontale Drehung (6 TON oder 10 TON)",
+    "Das Zuggerät kann an jeder Stelle der Hebebühne montiert werden und die Zugkraft wird mit dem serienmäßigen Manometer kontrolliert",
+    "Verschiedenes Zubehör ist auf Wunsch erhältlich",
+    "Mechanische / hydraulische / elektrische Sicherheitsvorrichtungen gemäß der Norm EN 1493"
+    ],
+    "images": [
+     "/images/richtanlagen/flex.jpg",
+     "/images/richtanlagen/flex-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3500" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1640" }
+    ]
+  },
+  {
+    "slug": "lb",
+    "title": "JOLLIFT LB",
+    "brand": "unterflur",
+    "subtitle": "Bühne mit Plattformen zum Heben an Rädern",
+    "image": "/images/richtanlagen/lb.jpg",
+    "longDescription": [
+    "Unterflur Richtanlage",
+    "Bühne mit Gummiauflagen",
+    "Bühne mit Plattformen zum Heben an Rädern",
+    "Die Schwenkarme und Aufnahmen mit Spannklemmen sind unabhängig von der Bühne",
+    "Das Zuggerät kann vorne, hinten und an den Seiten befestigt werden",
+    "Es können gleichzeitig mehrere Zuggeräte verwendet werden",
+    "Automatisches Öffnen und Schliessen der Schwenkarme lieferbar",
+    "Bündig mit dem Boden",
+    "Einfach, schnell und sicher aufgrund der Stop-Vorrichtung, wenn die Hebebühne aus der Grube fährt, um eine Beschädigung der Unterseite des Fahrzeugs zu vermeiden",
+    "Anheben am Schweller mit Gummiblöcken oder an den Rädern mit Radaufnahmeplatten",
+    "Klappbare Schwenkarme unabhängig von den Halteklemmen",
+    "Zwei Modelle herkömmlicher Schwellerklemmen erhältlich",
+    "Schnelles Verankerungssystem für die Karosserie- und Fahrgestelllöcher– verfügbar für viele Automarken",
+    "Drei verschiedene Modelle von Zuggeräten verfügbar: einfache horizontale Drehung (6 TON) oder doppelte horizontale Drehung (6 TON oder 10 TON)",
+    "Das Zuggerät kann an jeder Stelle der Hebebühne montiert werden und die Zugkraft wird mit dem serienmäßigen Manometer kontrolliert",
+    "Verschiedenes Zubehör ist auf Wunsch erhältlich",
+    "Mechanische / hydraulische / elektrische Sicherheitsvorrichtungen gemäß der Norm EN 1493"
+    ],
+    "images": [
+     "/images/richtanlagen/lb.jpg",
+     "/images/richtanlagen/lb-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "3200" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1480" }
+    ]
+  },
+  {
+    "slug": "mix34",
+    "title": "MIX 34",
+    "brand": "unterflur",
+    "subtitle": "Hebebühne für alle Arbeitsbereiche in der Karosseriewerkstatt",
+    "image": "/images/richtanlagen/mix.png",
+    "longDescription": [
+    "Unterflur Richtanlage",
+    "Bodeneben in Vorbereitungsplätze und Spritzkabinen versenkt",
+    "Gleiche Aufnahmen zum Anheben an den Rädern und/oder an der Schwellerkante mit doppelt verstellbaren Gummiauflagen.",
+    "Elektrohydraulische Version (EH) und elektrohydraulische Version mit pneumatischer Steuerung (PE) für Spritzkabinen und Vorbereitungsplätze erhältlich",
+    "ATEX-Version verfügbar",
+    "Hebebühne für alle Arbeitsbereiche in der Karosseriewerkstatt: Demontage und Richten, Vorbereitung und Lackierung, Montage und Endbearbeitung",
+    "Geeignet für: PKW / SPORTWAGEN / NUTZFAHRZEUGE / SUV / PICKUPS / TRANSPORTER",
+    "Gleiche Aufnahmen zum Anheben an den Rädern und/oder an der Schwellerkante mit doppelt verstellbaren Gummiauflagen.",
+    "Als Hebebühne erhältlich",
+    "Als Richtanlage mit derselben Ausstattung wie die Über- und Unterflurrichtanlagen erhältlich",
+     "Mechanische / hydraulische / elektrische Sicherheitsvorrichtungen gemäß der Norm EN 1493"
+    ],
+    "images": [
+     "/images/richtanlagen/mix.png",
+     "/images/richtanlagen/mix-1.jpg",
+     "/images/richtanlagen/mix-2.png",
+     "/images/richtanlagen/mix-3.png"
+
+    ],
+    "specs": [
+      { "name": "Grubentiefe", "unit": "mm", "value": "300 (einstellbar bis 400)" },
+      { "name": "Minimale Höhe zur oberen Plattform", "unit": "mm", "value": "0" },
+      { "name": "Minimale Höhe zur Aufnahmeplatte", "unit": "mm", "value": "36" },
+      { "name": "Hubhöhe der oberen Plattform", "unit": "mm", "value": "1360" },
+      { "name": "Hubhöhe zur Aufnahmeplatte", "unit": "mm", "value": "1396" },
+      { "name": "Länge der oberen Plattform", "unit": "mm", "value": "3400" },
+      { "name": "Breite der oberen Plattform", "unit": "mm", "value": "625" },
+      { "name": "Außenlänge (Aufnahmeplatten)", "unit": "mm", "value": "3500" },
+      { "name": "Tragfähigkeit mit Gummiauflagen", "unit": "kg", "value": "3500" }
+
+    ]
+  },
+ 
+{
+    "slug": "mix37",
+    "title": "MIX 37",
+    "brand": "unterflur",
+    "subtitle": "Hebebühne für alle Arbeitsbereiche in der Karosseriewerkstatt",
+    "image": "/images/richtanlagen/mix.png",
+    "longDescription": [
+    "Unterflur Richtanlage",
+    "Bodeneben in Vorbereitungsplätze und Spritzkabinen versenkt",
+    "Gleiche Aufnahmen zum Anheben an den Rädern und/oder an der Schwellerkante mit doppelt verstellbaren Gummiauflagen.",
+    "Elektrohydraulische Version (EH) und elektrohydraulische Version mit pneumatischer Steuerung (PE) für Spritzkabinen und Vorbereitungsplätze erhältlich",
+    "ATEX-Version verfügbar",
+    "Hebebühne für alle Arbeitsbereiche in der Karosseriewerkstatt: Demontage und Richten, Vorbereitung und Lackierung, Montage und Endbearbeitung",
+    "Geeignet für: PKW / SPORTWAGEN / NUTZFAHRZEUGE / SUV / PICKUPS / TRANSPORTER",
+    "Gleiche Aufnahmen zum Anheben an den Rädern und/oder an der Schwellerkante mit doppelt verstellbaren Gummiauflagen.",
+    "Als Hebebühne erhältlich",
+    "Als Richtanlage mit derselben Ausstattung wie die Über- und Unterflurrichtanlagen erhältlich",
+     "Mechanische / hydraulische / elektrische Sicherheitsvorrichtungen gemäß der Norm EN 1493"
+    ],
+    "images": [
+     "/images/richtanlagen/mix.png",
+     "/images/richtanlagen/mix-1.jpg",
+     "/images/richtanlagen/mix-2.png",
+     "/images/richtanlagen/mix-3.png"
+
+    ],
+    "specs": [
+      { "name": "Grubentiefe", "unit": "mm", "value": "300 (einstellbar bis 400)" },
+      { "name": "Minimale Höhe zur oberen Plattform", "unit": "mm", "value": "0" },
+      { "name": "Minimale Höhe zur Aufnahmeplatte", "unit": "mm", "value": "36" },
+      { "name": "Hubhöhe der oberen Plattform", "unit": "mm", "value": "1360" },
+      { "name": "Hubhöhe zur Aufnahmeplatte", "unit": "mm", "value": "1396" },
+      { "name": "Länge der oberen Plattform", "unit": "mm", "value": "3700" },
+      { "name": "Breite der oberen Plattform", "unit": "mm", "value": "625" },
+      { "name": "Außenlänge (Aufnahmeplatten)", "unit": "mm", "value": "3800" },
+      { "name": "Tragfähigkeit mit Gummiauflagen", "unit": "kg", "value": "3500" }
+
+    ]
+  },
+  {
+    "slug": "master5000in",
+    "title": "MASTER 5000.IN",
+    "brand": "unterflur",
+    "subtitle": "",
+    "image": "/images/hebebuehnen/fitimm5000in.jpg",
+    "longDescription": [
+    "Unterflur Bühne",
+    "Gleiche Aufbhame zum Anheben an den Rädern und am Schweller mit Gummiauflagen",
+    "Bühne für CARS, VANS, SUVS, PICKUPS, UTILITY TRUCKS",
+    "Das Fahrzeug kann mit zwei hängenden und zwei Rädern an den Platten angehoben werden",
+    "Verfügbar als Hebebühne",
+    "Erhältlich als Richtbank mit gleicher Ausstattung bei Überflur und Unterflur Versionen",
+    "Überflur und Unterflur Versionen verfügbar"
+    ],
+    "images": [
+     "/images/hebebuehnen/fitimm5000in.jpg",
+     "/images/hebebuehnen/fitimm5000in-1.jpg"
+    ],
+    "specs": [
+      { "name": "Tragkraft", "unit": "kg", "value": "5000" },
+      { "name": "Maximale Höhe", "unit": "mm", "value": "1330" }
+    ]
+  }
+
+
+]

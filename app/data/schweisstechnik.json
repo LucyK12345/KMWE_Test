@@ -1,0 +1,128 @@
+[
+    {
+    "slug": "quickpuller",
+    "title": "Prima Quick Puller",
+    "brand": "prima",
+    "subtitle": "Ausbeulsystem",
+    "image": "/images/schweisstechnik/quickpuller.png",
+    "longDescription": "Tragbarer Spotter mit Schlaghammer, \n Hochfrequenz-Inverter, geringem Gewicht und kompakter Größe,\n eingebauter Massespitze mit automatischem Kontakt,\n Lack-Reinigungsbereich mit Durchmesser 20 mm.\n\n Der Quick Puller ist ein Ausbeulgerät, das zum schnellen Schweißen, Ziehen und Drehen dient und die Reparaturzeiten deutlich verkürzt. Er findet in allen Bearbeitungen zur Instandsetzung von Autokarosserien Einsatz und dient zum Ausbeulen von Dellen",
+    "images": [
+     "/images/schweisstechnik/quickpuller.png"
+    ],
+    "video": "/videos/schweisstechnik/quickpuller-film.mp4",
+
+    "specs": [
+      { "name": "Reparaturzeit", "unit": "min", "value": "6" },
+      { "name": "Netzanschluss einphasig", "unit": "V; Hz", "value": "230; 50/60" },
+      { "name": "Stromaufnahme", "unit": "A", "value": "16" },
+      { "name": "Leistunsaufnahme", "unit": "KVA", "value": "3,2" },
+      { "name": "Schweißstrom", "unit": "KA", "value": "1,9" },
+      { "name": "Leerlaufspannung", "unit": "V", "value": "7" },
+      { "name": "Einschaltdauer", "unit": "%", "value": "5" },
+      { "name": "Schutzart", "unit": "-", "value": "IP21S" },
+      { "name": "Gewicht", "unit": "kg", "value": "2,9" },
+      { "name": "Abmessungen", "unit": "mm", "value": "110 x 180 x 420" }
+
+    ]
+  },
+
+
+
+
+
+    {
+    "slug": "multi190",
+    "title": "Prima Multi 190",
+    "brand": "prima",
+    "subtitle": "Synergie Schweißgerät",
+    "image": "/images/schweisstechnik/multi190.jpg",
+    "longDescription": "Das Inverter-Synergie-Schweißgerät ermöglicht das Schweißen mit MIG/MAG, FLUX, MMA und TIG DC mit einer einfachen Anzeige der Schweißparameter. Das Prima Multi 190 ist mit einem synergischen sowie einem manuellen Programm ausgestattet, um Stahl, Aluminium, Hartlöten, FLUX (No-Gas), WIG und Elektrode (E-Hand) zu schweißen. \n\n Das modulare Gerät verfügt über ein spezielles, selbstregulierendes Gasmischungs-Lötprogramm. Mit einem einfach zu bedienenden Regler kann die Schweißleistung an die Materialdicke angepasst werden. \n\n Alle MIG-, TIG- und E-Hand-Anschlüsse verwenden denselben Eurostecker. Der optionale Carmig-Tragwagen kann mit bis zu drei Prima Multi 190-Schweißmodulen (je 118 mm Breite) nebeneinander ausgestattet werden. Jedes Schweißmodul kann mit verschiedenen Drahtrollen für Fe, Al und CuSi bestückt werden. \n\n Der Ausbeul-QuickPuller kann das Potenzial, die Autonomie und die Effizienz des Prima Multi 190 deutlich steigern. Auf Wunsch liefern wir Ø 200 mm Drahtrollen für das Schweißmodul sowie ein Kit für größere Gasflaschen. Der Carmig-Tragwagen ist ausgelegt für den Aufbau von drei Schweißmodulen, zwei kleinen oder großen Gasflaschen, einem dreifach-Reihenschweißbrennerhalter und einem 10 Meter langen Netzkabel mit dreipoligem Stecker.",
+    "images": [
+     "/images/schweisstechnik/multi190.jpg"
+    ],
+    "specs": [
+  { "name": "Netzanschluss", "unit": "V / Hz", "value": "1~ 230 / 50–60" },
+  { "name": "Absicherung", "unit": "A", "value": "16" },
+  { "name": "Leistungsaufnahme", "unit": "KVA", "value": "5.4" },
+  { "name": "Schweißstrom (MIG/MAG)", "unit": "A", "value": "8–190" },
+  { "name": "Schweißstrom (MMA)", "unit": "A", "value": "20–180" },
+  { "name": "Schweißstrom (TIG)", "unit": "A", "value": "8–190" },
+  { "name": "Einschaltdauer", "unit": "%", "value": "190A 35% – 140A 60% – 110A 100%" },
+  { "name": "Drahtdurchmesser SG2", "unit": "mm", "value": "0.6 / 0.8 / 1.0" },
+  { "name": "Drahtdurchmesser FLUX", "unit": "mm", "value": "0.9" },
+  { "name": "Drahtdurchmesser SST", "unit": "mm", "value": "0.8 / 1.0" },
+  { "name": "Drahtdurchmesser AL", "unit": "mm", "value": "1.0 / 1.2" },
+  { "name": "Drahtdurchmesser CUSI 3%", "unit": "mm", "value": "0.8 / 1.0" },
+  { "name": "Spulendurchmesser", "unit": "mm", "value": "100–200" },
+  { "name": "TIG-Elektrodendurchmesser", "unit": "mm", "value": "1.5–4" },
+  { "name": "Zündung", "unit": "-", "value": "Elektronisch" },
+  { "name": "Schutzart", "unit": "-", "value": "IP21S" },
+  { "name": "Gewicht", "unit": "kg", "value": "10" },
+  { "name": "Abmessungen", "unit": "mm", "value": "118×300×360" }
+]
+  },
+
+
+
+
+  {
+
+    "slug":"Spot14000",
+    "title": "Spot 14000 SmartPlus",
+    "brand": "tecna",
+    "subtitle": "Trafopunktschweißgerät",
+    "image": "/images/schweisstechnik/spot14000.jpg",
+   "longDescription": [
+  "Trafopunktschweißgerät mit Mittelfrequenz-Invertertechnik und durchgängiger Wasserkühlung.",
+  "Entspricht den neuesten Herstellervorschriften für höherfeste, höchstfeste und verzinkte Bleche.",
+  "Werksempfehlungen* von Audi, Bentley, BMW, Bugatti, Daimler, EvoBus, Ford, Honda, Lamborghini, Maybach, Mini, Mercedes, Mercedes LKW, Nissan, Opel, Porsche, Rolls Royce, Scania, Seat, Skoda, Smart, Volkswagen – weitere in Vorbereitung.",
+  "Ausgezeichnet mit dem „Bundespreis 2006 für hervorragende innovatorische Leistung für das Handwerk.",
+  "Voll digitalisierte, intelligente Steuerung mit Regelalgorithmen zur Prozessüberwachung und Anpassung.",
+  "Benutzerfreundliche Bedienung über Touchscreen.",
+  "WELD TOUCH CONTROL mit manuellen, herstellerspezifischen Programmen oder mit vollautomatischer, adaptiver Regelung des Schweißprozesses (Option).",
+  "Keine starken Magnetfelder entlang der Kabel.",
+  "Durchgängige permanente Wasserkühlung vom Transformator bis zu den Elektrodenspitzen.",
+  "Qualitätssicherung mit Klartextanzeige und druckbare Prüfprotokolle über mitgeliefertes Analyse-Programm für PC.",
+  "USB-Schnittstelle für Speichermedien z. B. für Programmspeicherung, Dokumentation und Software-Updates.",
+  "Zukunftssichere Investition: Konstruiert auf eine Lebenszeit von einer Million Schweißpunkten.",
+  "__BREAK__",
+  "LIEFERUMFANG",
+  "SPOT 14000 Trafopunktschweißgerät mit Invertertechnik",
+  "Weld Touch Control Steuerung",
+  "Pneumatische C-Zange für Arme bis Armlänge 635 mm, mit integrierter Drucküberwachung, Kabel 4000 mm",
+  "Wasserkühlmodul mit Wärmetauscher",
+  "C-Arm 8685/W/S 85 mm, C-Arm 8684/W/S 205 mm, C-Arm 8688/W/S 505 mm, C-Arm 8689 für Radläufe, Elektrode 5223/W langer Schenkel",
+  "Fahrwagen mit Seitentaschen zur Ablage der Arme, extra großen Rädern und drehbarem Ausleger",
+  "Ausleger mit verschiebbarem Balancer und verstellbarer Punktzangenaufhängung",
+  "Netzkabel 8 m mit Stecker CEE 32 A"
+],
+    "images": [
+     "/images/schweisstechnik/spot14000.jpg",
+     "/images/schweisstechnik/spot14000-1.jpg",
+     "/images/schweisstechnik/spot14000-2.jpg",
+     "/images/schweisstechnik/spot14000-3.jpg",
+     "/images/schweisstechnik/spot14000-4.jpg"
+
+    ],
+    "specs": [
+  { "name": "Netzanschluss", "unit": "V", "value": "400 (50 Hz)" },
+  { "name": "Anzahl der Phasen", "unit": "-", "value": "3" },
+  { "name": "Nennleistung", "unit": "kVA", "value": "17" },
+
+  { "name": "Schweißstrom", "unit": "A", "value": "14000; 9000" },
+  { "name": "Netzabsicherung", "unit": "A", "value": "32; 16" },
+  { "name": "Elektrodenkraft", "unit": "daN", "value": "465; 700 (bei 8 bar)" },
+  { "name": "Querschnitt Netzkabel für L = 15 m", "unit": "mm2", "value": "4 x 10" },
+  { "name": "Träge Sicherung (bis 9000 A / 14000 A)", "unit": "A", "value": "16/32" },
+  { "name": "Kabellänge Zange / Stromquelle", "unit": "m", "value": "4" },
+  { "name": "Kurzschluss-Sekundärstrom", "unit": "kA", "value": "14" },
+  { "name": "Sekundärspannung", "unit": "V", "value": "8,3" },
+  { "name": "Druckluft", "unit": "bar", "value": "8" },
+  { "name": "Drahtdurchmesser AL", "unit": "mm", "value": "1.0 / 1.2" },
+  { "name": "Schutzklasse", "unit": "-", "value": "IP 21" },
+  { "name": "Nettogewicht", "unit": "kg", "value": "130" },
+  { "name": "Abmessungen LxBxH", "unit": "mm", "value": "680 x 600 x 1220" }
+]
+  }
+
+]

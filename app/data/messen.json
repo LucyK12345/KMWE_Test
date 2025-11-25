@@ -1,0 +1,41 @@
+[
+  {
+    "type": "upcoming",
+    "title": "Automechanika Frankfurt",
+    "location": "Frankfurt, Deutschland",
+    "date": "08.–12. September 2026",
+    "booth": "noch unbekannt",
+    "image": "/images/messen/automechanika-logo.png"
+  },
+  {
+    "type": "upcoming",
+    "title": "Test",
+    "location": "Ort,Land",
+    "date": "Datum",
+    "booth": "Halle 2, Stand B12",
+    "image": "/images/KMWE_logo_quer.png"
+  },
+
+
+
+  {
+    "type": "past",
+    "title": "Autopromotec Bologna 2024",
+    "image": "/images/messen/autopromotec-2024-stand.jpg"
+  },
+    {
+    "type": "past",
+    "title": "Autopromotec Bologna 2024",
+    "image": "/images/messen/autopromotec-2024-stand.jpg"
+  },
+    {
+    "type": "past",
+    "title": "Autopromotec Bologna 2024",
+    "image": "/images/messen/autopromotec-2024-stand.jpg"
+  },
+  {
+    "type": "past",
+    "title": "Motortec Madrid 2024",
+    "image": "/images/messen/motortec-2024-stand.jpg"
+  }
+]
