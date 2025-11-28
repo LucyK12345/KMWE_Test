@@ -3,7 +3,7 @@
     "slug": "010",
     "title": "010 T",
     "subtitle": "Tragbarer Infrarottrockner mit Timer",
-    "image": "/images/zugklemmen/cavo-di-sicurezza-art-80.jpg",
+    "image": "/images/lacktrocknung/010.png",
     "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
         "mit Timer",
         "einfache Platte",
@@ -13,9 +13,8 @@
         "Optional mit Standsäule"
 ],
     "images": [
-     "/images/zugklemmen/cavo-di-sicurezza-art-80.jpg",
-  "/images/zugklemmen/cavo-di-sicurezza-art-80-applicazione.jpg",
-  "/images/zugklemmen/cavo-di-sicurezza-art-80-applicazione2.jpg"
+     "/images/lacktrocknung/010.png",
+  "/images/lacktrocknung/010-1.png"
     ],
     "specs": [
         { "name": "Leistung", "unit": "kW", "value": "1" },
@@ -30,7 +29,7 @@
     "slug": "020",
     "title": "020 B T",
     "subtitle": "Tragbarer Infrarottrockner mit Timer",
-    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+    "image": "/images/lacktrocknung/020.png",
    "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
         "mit Timer",
         "doppelte Platte",
@@ -40,9 +39,8 @@
         "Optional mit Standsäule"
     ],
     "images": [
-      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+      "/images/lacktrocknung/020.png",
+      "/images/lacktrocknung/020-1.png"
     ],
     "specs": [
         { "name": "Leistung", "unit": "kW", "value": "2" },
@@ -57,7 +55,7 @@
     "slug": "030",
     "title": "030 V T / V D / V DP",
     "subtitle": "Mobiler Infrarotstrahler",
-    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+    "image": "/images/lacktrocknung/030.png",
    "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
         "Verfügbare Modelle: 030 V T / 030 V D / 030 V DP",
         "030 V T: Mit Timer",
@@ -72,9 +70,7 @@
         "Auf Anfrage: 220 V 16 A einphasig 1P+N+T"
     ],
     "images": [
-      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+      "/images/lacktrocknung/030.png"
     ],
     "specs": [
         { "name": "Leistung", "unit": "kW", "value": "3" },
@@ -91,7 +87,7 @@
     "slug": "130",
     "title": "130 V T / V D / V DP",
     "subtitle": "Mobiler Infrarotstrahler mit 1 Kassette",
-    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+    "image": "/images/lacktrocknung/130.png",
    "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
         "Verfügbare Modelle: 130 V T / 130 V D / 130 V DP",
         "030 V T: Mit Timer",
@@ -104,9 +100,8 @@
         "Optional mit Standsäule"
     ],
     "images": [
-      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+      "/images/lacktrocknung/130.png",
+      "/images/lacktrocknung/130-1.png"
     ],
     "specs": [
         { "name": "Leistung", "unit": "kW", "value": "3" },
@@ -123,7 +118,7 @@
     "slug": "260",
     "title": "260 V T / V D / V DP",
     "subtitle": "Mobiler Infrarotstrahler mit 2 Kassetten",
-    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+    "image": "/images/lacktrocknung/260.png",
    "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
         "Verfügbare Modelle: 260 V T / 260 V D / 260 V DP",
         "260 V T: Mit Timer",
@@ -137,9 +132,8 @@
         "Optional mit Standsäule"
     ],
     "images": [
-      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+      "/images/lacktrocknung/260.png",
+      "/images/lacktrocknung/260-1.png"
     ],
     "specs": [
         { "name": "Leistung", "unit": "kW", "value": "6" },
@@ -159,7 +153,7 @@
     "slug": "290",
     "title": "290 V D / V DP / V DPP",
     "subtitle": "Mobiler Infrarotstrahler mit 2 Kassetten",
-    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
+    "image": "/images/lacktrocknung/290.png",
    "longDescription": ["Kurzwellen-Infrarotstrahler mit hoher Leistung",
         "Verfügbare Modelle: 290 V T / 290 V D / 290 V DP",
         "290 V D:Mit Display",
@@ -173,9 +167,8 @@
         "Optional mit Standsäule"
     ],
     "images": [
-      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
+      "/images/lacktrocknung/290.png",
+      "/images/lacktrocknung/290-1.png"
     ],
     "specs": [
         { "name": "Leistung", "unit": "kW", "value": "9" },

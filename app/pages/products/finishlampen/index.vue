@@ -13,7 +13,7 @@ import finishlampen from '~/data/finishlampen.json'
 
     <!--Info Block -->
       <CompanyInfoBlock
-        logo="/images/zugklemmen/stanzani-logo.png"
+        logo="/images/lacktrocknung/logo_tecopoint_asco3.webp"
         alt="tecopoint"
         title="tecoPoint - Asco3"
         description="Hersteller mit langjähriger Erfahrung für Infrarottrockner."

@@ -1,35 +1,32 @@
 [
   {
-    "slug": "sicherheitskabel-80",
-    "title": "Sicherheitskabel Art. 80",
-    "subtitle": "Sicherheitskabel für Kette, Klemme und Haken",
-    "image": "/images/zugklemmen/cavo-di-sicurezza-art-80.jpg",
-    "longDescription": "Das Sicherheitskabel muss beim Ziehen IMMER verwendet werden, um die Kette, die Klemme und/oder den Haken an der Metalloberfläche zu sichern. \n\n Sollte sich das Metall vom Körper lösen, die Kette reißen oder die Klemme auf der Metalloberfläche verrutschen, verhindert das Sicherheitskabel Verletzungen des Bedieners. \n\n Die korrekte Verwendung entnehmen Sie bitte den angegebenen Zeichnungen. Wir lehnen jegliche Haftung für Sachschäden oder Personenschäden ab, die durch von uns gelieferte Klemmen, Haken und Ketten verursacht werden, die ohne das Sicherheitskabel verwendet werden.",
+    "slug": "t4",
+    "title": "Halbbogen mit 4 Leuchten 30013093150 ",
+    "subtitle": "zur Qualitätskontrolle",
+    "image": "/images/finishlampen/t4.png",
+    "longDescription": ["T4-Halbbogen auf Rädern zur Qualitätskontrolle",
+        "Mobile fahrbare und klappbare Lampe (Halbbogen) zur Qualitätskontrolle der Oberflächen", 
+        "mit 4 Röhren, jeweils einstellbar in der Lichtfarbe",
+         "Auf der Rückseite mit Lochwand inkl. 2 Haken und Aufnahme für Poliermaschine",
+         "Unten eine praktische Ablage für Poliermittel und anderes."
 
+
+        ],
     "images": [
-     "/images/zugklemmen/cavo-di-sicurezza-art-80.jpg",
-  "/images/zugklemmen/cavo-di-sicurezza-art-80-applicazione.jpg",
-  "/images/zugklemmen/cavo-di-sicurezza-art-80-applicazione2.jpg"
+     "/images/finishlampen/t4.png",
+  "/images/finishlampen/t4-1.jpg"
     ],
     "specs": [
-      { "name": "Material", "unit": "-", "value": "Stahl mit Kunststoffummantelung" },
-      { "name": "Länge", "unit": "mm", "value": "2000" },
-      { "name": "Gewicht", "unit": "kg", "value": "0,52" }
+       
+        { "name": "Außenmaße (gefaltet)", "unit": "mm", "value": "870 x 600 x 1750" },
+        { "name": "Anzahl der Leuchten", "unit": "", "value": "4" },
+        { "name": "Leistungsaufnahme", "unit": "W", "value": "144" },
+        { "name": "Stromstärke", "unit": "A", "value": "0,6" },
+        { "name": "Beleuchtung", "unit": "", "value": "Einzeln/single" },
+        { "name": "Stromversorgung", "unit": "V", "value": "230V Monophase - 50/60 Hz" },
+        { "name": "Farbtemperaturen", "unit": "K", "value": "3000 (Warm), 4000 (Natural), 6000 (Cold)" },
+        { "name": "Sicherung", "unit": "", "value": "Schaltkasten mit Sicherungsschutz" }
+
     ]
-  },
-  {
-    "slug": "haltebuegel-96",
-    "title": "Haltebügel Art. 96",
-    "subtitle": "Haltebügel",
-    "image": "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
-    "longDescription": "Zugbügel zur alleinigen Verwendung oder in Kombination mit selbstsichernden Klemmen Art. 131, 133, 137 und 148, sofern diese nicht mit Zugring oder Ringschraube ausgestattet sind. \n\n Die Klemmen sind nicht im Lieferumfang enthalten.",
-    "images": [
-      "/images/zugklemmen/Staffa-di-tiro-Art96.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-dettaglio1.jpg",
-      "/images/zugklemmen/Staffa-di-tiro-Art96-applicazione_new.jpg"
-    ],
-    "specs": [
-      { "name": "Material", "unit": "-", "value": "Stahl verzinkt" },
-      { "name": "Gewicht", "unit": "kg", "value": "0,96" }
-    ]
-  }]
+  }
+]

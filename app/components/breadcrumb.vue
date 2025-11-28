@@ -54,7 +54,7 @@ const labelMap = {
   unterflur: 'Unterflur',
   ueberflur: 'Überflur',
   zubehoer: 'Zubehör',
-  contakt: 'Kontakt',
+  contact: 'Kontakt',
   about: 'Über uns',
   messen: 'Messen'
 }

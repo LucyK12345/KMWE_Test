@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "guniwheel-45s",
+    "title": "Guniwheel 45S",
+    "subtitle": "Universelles Notrad",
+    "image": "/images/diverses/guni45s.png",
+    "longDescription": [
+        "Universelles Notrad",
+        "neue Version mit geringer Einpresstiefe",
+        "GUNIWHEELS können aufgrund des universellen Lochkreis für alle 4 und 5 Loch Aufnahmen verwendet werden, als Ersatz für fehlende oder defekte Räder und um beim Lackieren, die Original- Räder zu schützen.",
+        "Mit dem GUNIHUB können festsitzende Räder, z.B. durch blockierte Bremsen mit Verwendung des GUNIWHEEL gedreht werden. "
+
+],
+    "images": [
+     "/images/diverses/guni45s.png"
+    ]
+    
+  },
+  {
+    "slug": "gunihub",
+    "title": "Gunihub",
+    "subtitle": "Universelle Aufnahme",
+    "image": "/images/diverses/gunihub.png",
+   "longDescription": [
+    "GUNIHUB ist eine universelle Aufnahme zum GUNIWHEEL", 
+    "Mit diesem kann ein Freilauf erzeugt werden, wenn sich ein Rad bzw. Räder nicht mehr drehen lassen (z.B. Bremsen blockiert) und bei Bedarf auch wieder festgestellt werden."
+    ],
+    "images": [
+      "/images/diverses/gunihub.png",
+      "/images/diverses/gunihub-1.jpg",
+       "/images/diverses/gunihub-2.png"
+
+    ]
+  },
+   {
+    "slug": "gunix45",
+    "title": "GUNIX45",
+    "subtitle": "Universelles Notrad",
+    "image": "/images/diverses/gunix45.jpg",
+   "longDescription": [
+    "Universelles Notrad", 
+    "mit integriertem Freilauf",
+    "GUNIWHEELS können als Ersatz für fehlende oder defekte Räder verwendet werden, oder um beim Lackieren, die Original- Räder zu schützen.",
+    "Durch den interierten Freilauf können Fahrzeuge mit festsitzenden Rädern, z.B. durch blockierte Bremsen, bewegt werden. "
+
+    ],
+    "images": [
+      "/images/diverses/gunix45.jpg",
+      "/images/diverses/gunix45-1.jpg"
+    ]
+  },
+    {
+    "slug": "gunix45-56-80",
+    "title": "GUNIX 45-56-80 Set",
+    "subtitle": "Universelles Notrad Set",
+    "image": "/images/diverses/gunixset.jpg",
+   "longDescription": [
+    "Universelles Notrad mit je einem Einsatz für 4/5 Loch, 5/6 Loch oder 8 Loch Aufnahme",
+    "Freilauf in weniger als 20 s verfügbar",
+    "Kein Spezialwerkzeug erforderlich",
+    "GUNIWHEELS können als Ersatz für fehlende oder defekte Räder verwendet werden, um beim Lackieren, die Original- Räder zu schützen.",
+    "Durch den interierten Freilauf können Fahrzeuge mit festsitzenden Rädern, z.B. durch blockierte Bremsen, bewegt werden.",
+    "1500 kg Tragkraft pro Rad"
+    ],
+    "images": [
+      "/images/diverses/gunixset.jpg",
+      "/images/diverses/gunixset-1.jpg",
+      "/images/diverses/gunixset-2.jpg",
+      "/images/diverses/gunixset-3.jpg",
+      "/images/diverses/gunixset-4.jpg"
+    ]
+  }
+
+]

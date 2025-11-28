@@ -64,7 +64,7 @@ const products = [
     title: 'Schweißtechnik',
     description: 'Punkt- und Widerstandsschweißtechnik für Profis.',
     link: '/products/schweisstechnik',
-    image: '/images/produkte/schweisstechnik.jpg'
+    image: '/images/schweisstechnik/quickpuller.png'
   },
   {
     title: 'Induktionserwärmer',
@@ -81,14 +81,14 @@ const products = [
   {
     title: 'Infrarottrockner',
     description: 'Schnelle Trocknung für Spot-Repair & mehr.',
-    link: '/products/infrarottrockner',
-    image: '/images/produkte/infrarottrockner.jpg'
+    link: '/products/lacktrocknung',
+    image: '/images/lacktrocknung/030.png'
   },
   {
     title: 'Finishlampen',
     description: 'Perfekte Ausleuchtung für Lackkontrolle.',
     link: '/products/finishlampen',
-    image: '/images/produkte/finishlampen.jpg'
+    image: '/images/finishlampen/t4.png'
   },
   {
     title: 'Zubehör',
